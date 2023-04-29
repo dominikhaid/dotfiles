@@ -1,2 +1,2 @@
 light-locker &
-
+exec dbus-launch leftwm
