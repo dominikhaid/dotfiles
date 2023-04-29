@@ -1,0 +1,9 @@
+[Bookmarks]
+[Recent]
+/home/dominik/Dokumente/adapterplatten/
+/mnt/nas/share/blender/adapterplatten/
+/home/dominik/Dokumente/Blender/rapi/
+/home/dominik/Dokumente/Blender/
+/home/dominik/Dokumente/Blender/hdri/
+!Home
+/home/dominik/

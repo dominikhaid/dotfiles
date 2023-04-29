@@ -1,0 +1,45 @@
+<application>
+  <component name="NotRoamableUiSettings">
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "NonModalCommitCustomization.IsApplied": "true",
+    "RunOnceActivity.se.text.search": "true",
+    "appcds.runOnSecondStart": "IC-231.8109.175-62e8544f718228b06bfb8c83ad1dd4fd30679da50e1383e04f2f7ea2b6674a35",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "bundled.plugins.list.saved.version": "IC-231.8109.175",
+    "experimental.ui.first.promotion.localdate": "2023-04-15",
+    "experimental.ui.used.once": "true",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "gotit.previous.run": "IC-231.8109.175",
+    "ide.memory.adjusted": "true",
+    "ideavim.statistics.timestamp": "1681511535937",
+    "ift.hide.welcome.screen.promo": "true",
+    "input.method.disabler.muted": "true",
+    "installed.kotlin.plugin.version": "231-1.8.20-IJ8109.175",
+    "last_opened_file_path": "/home/dominik/Dokumente/github/scratchpad",
+    "migrate.android.sdk.path.to.roamable.storage": "false",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "org.rust.lang.LAST_UPDATE": "1681511533843",
+    "org.rust.lang.LAST_VERSION": "0.4.192.5324-231",
+    "previousColorScheme": "_@user_Dark",
+    "registry.to.advanced.settings.migration.build": "IC-231.8109.175",
+    "tasks.pass.word.conversion.enforced": "true"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/dominik/Dokumente/github/scratchpad"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector",
+      "com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

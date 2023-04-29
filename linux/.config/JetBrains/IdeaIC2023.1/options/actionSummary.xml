@@ -1,0 +1,28 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="Cargo.AttachCargoProject">
+      <i c="1" l="1681511547338" />
+    </e>
+    <e n="Exit">
+      <i c="1" l="1681511889129" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="2" l="1681511206721" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="1" l="1681511582469" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="3" l="1681511749883" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="1" l="1681511283878" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="1" l="1681511885028" />
+    </e>
+    <e n="com.intellij.toolWindow.MoreSquareStripeButton$Companion$createAction$1">
+      <i c="1" l="1681511270836" />
+    </e>
+  </component>
+</application>
