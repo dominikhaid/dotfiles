@@ -1,0 +1,37 @@
+**/*.swp
+**/*/packer_compiled.lua
+**/*/__pycache__
+**/*/.git
+**/*/node_modules
+
+linux/.config/ObinsKit/Cache
+linux/.config/ObinsKit/Code Cache
+linux/.config/ObinsKit/GPUCache
+linux/.config/ObinsKit/logs
+linux/.config/ObinsKit/Local Storage/leveldb
+linux/.config/ObinsKit/Session Storage
+linux/.config/ObinsKit/Network Persistent State
+linux/.config/ObinsKit/Cookies
+linux/.config/ObinsKit/Cookies-journal
+linux/.config/ObinsKit/Run.core
+linux/.config/ObinsKit/remind-window-state.json
+linux/.config/ObinsKit/window-state.json
+linux/.config/broot/launcher
+linux/.config/broot/select.toml
+linux/.config/gh/hosts.yml
+linux/.config/inkscape/extension-errors.log
+linux/.config/pulse
+linux/.config/retroarch/cheats
+linux/.config/retroarch/database/rdb
+linux/.config/retroarch/overlay
+linux/.config/retroarch/shaders/shaders_glsl
+linux/.config/retroarch/content_history.lpl
+linux/.config/retroarch/autoconfig
+linux/.config/scribus
+linux/.config/Nextcloud/logs
+linux/.config/Nextcloud/cookies0.db
+linux/.config/Nextcloud/nextcloud.cfg.backup_20221125_075216_3.2.4git (build 6464)
+linux/.config/Nextcloud/nextcloud.cfg.backup_20221130_182758_3.6.2 (build 12295)
+linux/.config/Nextcloud/nextcloud.cfg.backup_20221225_183709_3.2.4git (build 6464)
+linux/.config/Nextcloud/nextcloud.cfg.backup_20221225_211558_3.6.2 (build 12295)
+linux/.config/Nextcloud/nextcloud.cfg

@@ -1,0 +1,20 @@
+{
+  "neodev": {
+    "library": {
+      "enabled": true,
+      "plugins": true
+    }
+  },
+  "neoconf": {
+    "import": {
+      "vscode": true
+    },
+    "live_reload": true,
+    "filetype_jsonc": true,
+    "plugins": {
+      "lua_ls": {
+        "enabled": true
+      }
+    }
+  }
+}

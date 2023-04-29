@@ -1,0 +1,16 @@
+lastupdatecheck: 0
+recentrepos:
+- /home/dominik/Dokumente/github/debian-config
+- /home/dominik/Dokumente/github/docker-compose-collection
+- /home/dominik/Dokumente/github/debian-install
+- /home/dominik/Dokumente/github/bash-installer
+- /home/dominik/Dokumente/github/scratchpad
+- /home/dominik/Dokumente/github/notes
+- /home/dominik/.local/share/nvim
+- /home/dominik/Dokumente/github/bauservice-muehltal
+- /home/dominik/Dokumente/github/touchTest
+- /home/dominik/Dokumente/github/backstopjs-course-english
+startuppopupversion: 5
+customcommandshistory:
+- q
+hidecommandlog: false
