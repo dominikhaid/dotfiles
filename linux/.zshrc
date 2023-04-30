@@ -10,6 +10,12 @@ EMOJI_CLI_KEYBIND=^a
 #ENHANCD_COMPLETION_BEHAVIOR="list"
 
 
+export fpath=( "$HOME/.local/share/zsh/completions" "${fpath[@]}" )
+source "$HOME/.local/share/zsh/functions/lcd"
+source "$HOME/.local/share/zsh/functions/ex"
+source "$HOME/.local/share/zsh/functions/set-wal"
+
+
 bindkey -v
 export TMPDIR="/tmp" 
 export ENHANCD_FILTER="fzf --preview='exa --tree --group-directories-first --git-ignore --level 1 {}'"
@@ -127,7 +133,6 @@ if [ -z "$SSH_AUTH_SOCK" ] ; then
 fi
 
 eval "$(starship init zsh)"
-export fpath=( "$HOME/.local/share/zsh/functions" "${fpath[@]}" )
 
 
 eval "$(zoxide init zsh)"
