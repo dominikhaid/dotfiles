@@ -1,8 +1,8 @@
 [user]
 	name = dominikhaid
 	email = info@dominikhaid.de
-#[url "ssh://git@github.com/"]
-#	insteadOf = https://github.com/
+[url "ssh://git@github.com/"]
+	insteadOf = https://github.com/
 [init]
   defaultBranch = main
 [core]
@@ -15,4 +15,8 @@
 [merge]
   conflictstyle = diff3
 [diff]
-  colorMoved = default
+	colorMoved = zebra
+[pull]
+	rebase = true
+[fetch]
+	prune = true
