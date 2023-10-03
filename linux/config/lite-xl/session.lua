@@ -1,0 +1,1 @@
+return {recents={[2]="/home/dominik/Dokumente/github/scratchpad",[1]="/home/dominik/Dokumente/github/symfony-test"}, window={[1]=952,[2]=1042,[3]=963,[4]=33,["n"]=4}, window_mode="normal", previous_find={}, previous_replace={}}

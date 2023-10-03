@@ -1,0 +1,15 @@
+2022/10/02-20:51:06.921 a39 Reusing MANIFEST /home/dominik/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/02-20:51:06.922 a39 Recovering log #591
+2022/10/02-20:51:06.922 a39 Reusing old log /home/dominik/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/000591.log 
+2022/10/02-20:51:09.370 e93 Level-0 table #598: started
+2022/10/02-20:51:09.377 e93 Level-0 table #598: 20314 bytes OK
+2022/10/02-20:51:09.388 e93 Delete type=0 #591
+2022/10/02-20:51:09.388 e93 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/10/02-20:51:09.388 e93 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x02\x01\x16\x00t\x00m\x00p\x00.\x00e\x00c\x00s\x00-\x00s\x00e\x00t\x00t\x00i\x00n\x00g\x00s\x00-\x00c\x00a\x00c\x00h\x00e' @ 732530 : 1
+2022/10/02-20:51:09.388 e93 Compacting 1@1 + 1@2 files
+2022/10/02-20:51:09.423 e93 Generated table #599@1: 4761 keys, 2149063 bytes
+2022/10/02-20:51:09.423 e93 Compacted 1@1 + 1@2 files => 2149063 bytes
+2022/10/02-20:51:09.433 e93 compacted to: files[ 0 0 3 0 0 0 0 ]
+2022/10/02-20:51:09.434 e93 Delete type=2 #593
+2022/10/02-20:51:09.434 e93 Delete type=2 #598
+2022/10/02-20:51:09.434 e93 Manual compaction at level-1 from '\x00\x03\x01\x02\x01\x16\x00t\x00m\x00p\x00.\x00e\x00c\x00s\x00-\x00s\x00e\x00t\x00t\x00i\x00n\x00g\x00s\x00-\x00c\x00a\x00c\x00h\x00e' @ 732530 : 1 .. (end); will stop at (end)

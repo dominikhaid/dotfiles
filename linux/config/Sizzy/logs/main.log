@@ -1,0 +1,34 @@
+[2022-09-23 22:17:19.317] [info]  Starting automatic updates
+[2022-09-23 22:17:19.324] [info]  Checking for updates...
+[2022-09-23 22:17:19.331] [info]  Checking for app updates...
+[2022-09-23 22:17:20.294] [error] Updates error Error: Cannot parse update info from latest-linux.yml in the latest release artifacts (https://proxy.sizzy.co/updates/update/linux/70.0.0/latest-linux.yml?mode=auto&channel=Stable&?arch=x64): rawData: null
+    at Object.newError (/tmp/.mount_Sizzy-PTIPWg/resources/app.asar/node_modules/builder-util-runtime/out/index.js:47:19)
+    at Object.parseUpdateInfo (/tmp/.mount_Sizzy-PTIPWg/resources/app.asar/node_modules/electron-updater/out/providers/Provider.js:78:38)
+    at GenericProvider.getLatestVersion (/tmp/.mount_Sizzy-PTIPWg/resources/app.asar/node_modules/electron-updater/out/providers/GenericProvider.js:23:35)
+    at async AppImageUpdater.getUpdateInfoAndProvider (/tmp/.mount_Sizzy-PTIPWg/resources/app.asar/node_modules/electron-updater/out/AppUpdater.js:305:19)
+    at async AppImageUpdater.doCheckForUpdates (/tmp/.mount_Sizzy-PTIPWg/resources/app.asar/node_modules/electron-updater/out/AppUpdater.js:319:24)
+[2022-09-23 22:17:20.296] [error] Error while checking for updates Error: Cannot parse update info from latest-linux.yml in the latest release artifacts (https://proxy.sizzy.co/updates/update/linux/70.0.0/latest-linux.yml?mode=auto&channel=Stable&?arch=x64): rawData: null
+    at Object.newError (/tmp/.mount_Sizzy-PTIPWg/resources/app.asar/node_modules/builder-util-runtime/out/index.js:47:19)
+    at Object.parseUpdateInfo (/tmp/.mount_Sizzy-PTIPWg/resources/app.asar/node_modules/electron-updater/out/providers/Provider.js:78:38)
+    at GenericProvider.getLatestVersion (/tmp/.mount_Sizzy-PTIPWg/resources/app.asar/node_modules/electron-updater/out/providers/GenericProvider.js:23:35)
+    at async AppImageUpdater.getUpdateInfoAndProvider (/tmp/.mount_Sizzy-PTIPWg/resources/app.asar/node_modules/electron-updater/out/AppUpdater.js:305:19)
+    at async AppImageUpdater.doCheckForUpdates (/tmp/.mount_Sizzy-PTIPWg/resources/app.asar/node_modules/electron-updater/out/AppUpdater.js:319:24)
+[2022-09-23 22:18:24.189] [info]  Starting automatic updates
+[2022-09-23 22:18:24.191] [info]  Checking for updates...
+[2022-09-23 22:18:24.197] [info]  Checking for app updates...
+[2022-09-23 22:18:24.826] [error] Updates error Error: Cannot parse update info from latest-linux.yml in the latest release artifacts (https://proxy.sizzy.co/updates/update/linux/70.0.0/latest-linux.yml?mode=auto&channel=Stable&?arch=x64): rawData: null
+    at Object.newError (/tmp/.mount_Sizzy-PTIPWg/resources/app.asar/node_modules/builder-util-runtime/out/index.js:47:19)
+    at Object.parseUpdateInfo (/tmp/.mount_Sizzy-PTIPWg/resources/app.asar/node_modules/electron-updater/out/providers/Provider.js:78:38)
+    at GenericProvider.getLatestVersion (/tmp/.mount_Sizzy-PTIPWg/resources/app.asar/node_modules/electron-updater/out/providers/GenericProvider.js:23:35)
+    at async AppImageUpdater.getUpdateInfoAndProvider (/tmp/.mount_Sizzy-PTIPWg/resources/app.asar/node_modules/electron-updater/out/AppUpdater.js:305:19)
+    at async AppImageUpdater.doCheckForUpdates (/tmp/.mount_Sizzy-PTIPWg/resources/app.asar/node_modules/electron-updater/out/AppUpdater.js:319:24)
+[2022-09-23 22:18:24.827] [error] Error while checking for updates Error: Cannot parse update info from latest-linux.yml in the latest release artifacts (https://proxy.sizzy.co/updates/update/linux/70.0.0/latest-linux.yml?mode=auto&channel=Stable&?arch=x64): rawData: null
+    at Object.newError (/tmp/.mount_Sizzy-PTIPWg/resources/app.asar/node_modules/builder-util-runtime/out/index.js:47:19)
+    at Object.parseUpdateInfo (/tmp/.mount_Sizzy-PTIPWg/resources/app.asar/node_modules/electron-updater/out/providers/Provider.js:78:38)
+    at GenericProvider.getLatestVersion (/tmp/.mount_Sizzy-PTIPWg/resources/app.asar/node_modules/electron-updater/out/providers/GenericProvider.js:23:35)
+    at async AppImageUpdater.getUpdateInfoAndProvider (/tmp/.mount_Sizzy-PTIPWg/resources/app.asar/node_modules/electron-updater/out/AppUpdater.js:305:19)
+    at async AppImageUpdater.doCheckForUpdates (/tmp/.mount_Sizzy-PTIPWg/resources/app.asar/node_modules/electron-updater/out/AppUpdater.js:319:24)
+[2023-04-29 19:48:45.351] [info]  Starting automatic updates
+[2023-04-29 19:48:45.354] [info]  Checking for updates...
+[2023-04-29 19:48:45.357] [info]  Checking for app updates...
+[2023-04-29 19:48:46.533] [info]  Found update for the app! Downloading...

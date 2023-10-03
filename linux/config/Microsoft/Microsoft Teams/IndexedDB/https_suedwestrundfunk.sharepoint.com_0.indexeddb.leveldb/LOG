@@ -1,0 +1,5 @@
+2021/12/17-14:04:46.604 10c3 Reusing MANIFEST /home/dominik/.config/Microsoft/Microsoft Teams/IndexedDB/https_suedwestrundfunk.sharepoint.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/17-14:05:40.603 1713 Level-0 table #5: started
+2021/12/17-14:05:40.619 1713 Level-0 table #5: 524934 bytes OK
+2021/12/17-14:05:40.626 1713 Delete type=0 #3
+2021/12/17-14:05:40.627 1713 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+[2023-02-17 00:10:54.319] [main] [info] update#setState idle
+[2023-02-17 00:10:56.328] [main] [info] UtilityProcess<1>: Creating new...
+[2023-02-17 00:10:56.338] [main] [info] UtilityProcess<1>: received spawn event.
+[2023-02-17 00:10:56.559] [main] [info] UtilityProcess<1>: Waiting for extension host with pid 18918 to exit.
+[2023-02-17 00:10:57.228] [main] [info] UtilityProcess<1>: received exit event with code 0.
+[2023-02-17 00:10:57.228] [main] [info] Extension host with pid 18918 exited with code: 0, signal: .

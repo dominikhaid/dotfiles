@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=info@dominikhaid.de
+Enabled=true
+Parent=36fa4533b7b982c6984b6b318b62e63124569546
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=535a94c1f0d6d0e52b9bcc02bd0c205b24b84ef3
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=folder://local/Templates
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=info@dominikhaid.de
+Aliases=
+Name=Dominik Haid
+Organization=
+ReplyTo=
+SignatureUid=none

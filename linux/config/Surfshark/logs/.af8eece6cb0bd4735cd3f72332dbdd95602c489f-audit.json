@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 2
+    },
+    "auditLog": "/home/dominik/.config/Surfshark/logs/.af8eece6cb0bd4735cd3f72332dbdd95602c489f-audit.json",
+    "files": [
+        {
+            "date": 1668271501094,
+            "name": "/home/dominik/.config/Surfshark/logs/debug-2022-11-12-17.log",
+            "hash": "a26e9d7810a5c7f671ccac3624a4a5bc694083850c0c25f9c2ea9aa26df8c2a8"
+        },
+        {
+            "date": 1668272400100,
+            "name": "/home/dominik/.config/Surfshark/logs/debug-2022-11-12-18.log",
+            "hash": "5e07d0f1c4c6dbe63ea718459f3cd67a748d1dd8fc7fe2c17d1ef2b6a0e3b5ac"
+        }
+    ],
+    "hashType": "sha256"
+}

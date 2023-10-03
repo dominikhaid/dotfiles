@@ -1,0 +1,6 @@
+//192.168.178.47/musik /mnt/nas/musik cifs credentials=/home/dominik/.config/smb/.smb,uid=0,,rw,nounix,iocharset=utf8,file_mode=0777,dir_mode=0777 0 0 
+//192.168.178.47/videos /mnt/nas/videos cifs credentials=/home/dominik/.config/smb/.smb,uid=0,,rw,nounix,iocharset=utf8,file_mode=0777,dir_mode=0777 0 0 
+//192.168.178.47/roms /mnt/nas/roms cifs credentials=/home/dominik/.config/smb/.smb,uid=0,,rw,nounix,iocharset=utf8,file_mode=0777,dir_mode=0777 0 0 
+//192.168.178.47/share /mnt/nas/share cifs credentials=/home/dominik/.config/smb/.smb,uid=0,,rw,nounix,iocharset=utf8,file_mode=0777,dir_mode=0777 0 0 
+//192.168.178.47/bios /mnt/nas/bios cifs credentials=/home/dominik/.config/smb/.smb,uid=0,,rw,nounix,iocharset=utf8,file_mode=0777,dir_mode=0777 0 0 
+//192.168.178.47/configs /mnt/nas/configs cifs credentials=/home/dominik/.config/smb/.smb,uid=0,,rw,nounix,iocharset=utf8,file_mode=0777,dir_mode=0777 0 0 

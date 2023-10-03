@@ -1,0 +1,27 @@
+[General]
+clientVersion=3.2.4git (build 6464)
+confirmExternalStorage=true
+newBigFolderSizeLimit=500
+optionalServerNotifications=true
+updateSegment=65
+useNewBigFolderSizeLimit=true
+
+[Accounts]
+0\Folders\1\ignoreHiddenFiles=false
+0\Folders\1\journalPath=.sync_8120ee10f88c.db
+0\Folders\1\localPath=/home/dominik/Dokumente/NextCloud/
+0\Folders\1\paused=false
+0\Folders\1\targetPath=/
+0\Folders\1\version=2
+0\Folders\1\virtualFilesMode=off
+0\authType=webflow
+0\dav_user=dominikhaid
+0\serverVersion=25.0.1.1
+0\url=https://cloud.dominikhaid.de
+0\user=@Invalid()
+0\version=1
+0\webflow_user=dominikhaid
+version=2
+
+[Settings]
+geometry=@ByteArray(\x1\xd9\xd0\xcb\0\x3\0\0\0\0\x1\xe0\0\0\0\xf7\0\0\x5\x9f\0\0\x3@\0\0\x1\xe0\0\0\0\xf7\0\0\x5\x9f\0\0\x3@\0\0\0\0\0\0\0\0\a\x80\0\0\x1\xe0\0\0\0\xf7\0\0\x5\x9f\0\0\x3@)

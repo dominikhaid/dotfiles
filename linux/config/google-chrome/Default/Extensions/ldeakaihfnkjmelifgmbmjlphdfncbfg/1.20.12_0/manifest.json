@@ -1,0 +1,40 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "media/logo/128.png",
+         "16": "media/logo/16.png",
+         "32": "media/logo/32.png",
+         "48": "media/logo/48.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "Stadia Enhanced v1.20.12"
+   },
+   "author": "Christopher Klay",
+   "background": {
+      "service_worker": "background.js"
+   },
+   "content_scripts": [ {
+      "js": [ "translations.js", "enhanced.js" ],
+      "matches": [ "*://stadia.google.com/u/*", "*://stadia.google.com/home*", "*://stadia.google.com/store*", "*://stadia.google.com/player*", "*://stadia.google.com/explore*", "*://stadia.google.com/profile*", "*://stadia.google.com/settings*", "*://stadia.google.com/captures*", "*://stadia.google.com/library*", "*://stadia.google.com/game/*" ],
+      "run_at": "document_end"
+   } ],
+   "description": "Various new features for Google Stadia.",
+   "differential_fingerprint": "1.656242ee382239667a98edeec63fa468af573779235615cb72fde8bf3c050b5c",
+   "homepage_url": "https://github.com/ChristopherKlay/StadiaEnhanced",
+   "host_permissions": [ "*://stadia.google.com/*" ],
+   "icons": {
+      "128": "media/logo/128.png",
+      "16": "media/logo/16.png",
+      "32": "media/logo/32.png",
+      "48": "media/logo/48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoURhfz19FyU5ZeKbi/+jNShvXObytvh7OQfsrZJrjHScWiejv1LnsVsTkmqlAdKYozBOTs6SqXeYU8MS23wmJSYnbfwBR/vBrbc0PqpFXjEqkmW4ZrOMFYajvC2P5odhyNqxG0M22InytfrCaez63jgviUNW6O09GL9i25ERxMBeDmU6xMk+kAKFQQLRgMy/FhdT+2vQuEs++Xa6x8k7Y91jJ2SRgPzbv4i3Rm3pCt28bnN2tE29g2/eBM7SnolFNNAF/63VFU5p4sFfJCNTP5xgv0QLOra8qgbQYXW0KGN1Sy8jzcUSrdRpfRSBpyLBYQWcp73zIYs56NfKKem5gwIDAQAB",
+   "manifest_version": 3,
+   "name": "Stadia Enhanced",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.20.12",
+   "web_accessible_resources": [ {
+      "matches": [ "*://stadia.google.com/*" ],
+      "resources": [ "injected.js", "media/included/hunters_logo.png", "media/included/hunters_banner.png" ]
+   } ]
+}

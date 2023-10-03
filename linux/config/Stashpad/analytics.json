@@ -1,0 +1,119 @@
+[
+  {
+    "event": "App Opened",
+    "properties": {
+      "isDev": false
+    },
+    "timestamp": "2023-04-14T22:16:42.631Z"
+  },
+  {
+    "event": "App Used",
+    "properties": {
+      "isDev": false
+    },
+    "timestamp": "2023-04-14T22:16:42.631Z"
+  },
+  {
+    "event": "App Alive",
+    "properties": {
+      "isDev": false
+    },
+    "timestamp": "2023-04-14T22:16:42.632Z"
+  },
+  {
+    "event": "App Focused",
+    "properties": {
+      "isDev": false
+    },
+    "timestamp": "2023-04-14T22:16:47.048Z"
+  },
+  {
+    "event": "Database Loaded",
+    "properties": {
+      "isLoggedIn": false,
+      "isSyncEnabled": false,
+      "isDev": false
+    },
+    "timestamp": "2023-04-14T22:16:47.407Z"
+  },
+  {
+    "event": "App Blurred",
+    "properties": {
+      "isDev": false
+    },
+    "timestamp": "2023-04-14T22:16:53.461Z"
+  },
+  {
+    "event": "App Focused",
+    "properties": {
+      "isDev": false
+    },
+    "timestamp": "2023-04-14T22:16:55.711Z"
+  },
+  {
+    "event": "App Blurred",
+    "properties": {
+      "isDev": false
+    },
+    "timestamp": "2023-04-14T22:16:55.918Z"
+  },
+  {
+    "event": "App Focused",
+    "properties": {
+      "isDev": false
+    },
+    "timestamp": "2023-04-14T22:17:19.233Z"
+  },
+  {
+    "event": "App Blurred",
+    "properties": {
+      "isDev": false
+    },
+    "timestamp": "2023-04-14T22:17:20.244Z"
+  },
+  {
+    "event": "Database Loaded",
+    "properties": {
+      "isLoggedIn": true,
+      "isSyncEnabled": true,
+      "isDev": false
+    },
+    "timestamp": "2023-04-14T22:17:31.477Z"
+  },
+  {
+    "event": "App Focused",
+    "properties": {
+      "isDev": false
+    },
+    "timestamp": "2023-04-14T22:17:34.820Z"
+  },
+  {
+    "event": "App Blurred",
+    "properties": {
+      "isDev": false
+    },
+    "timestamp": "2023-04-14T22:17:34.821Z"
+  },
+  {
+    "event": "App Focused",
+    "properties": {
+      "isDev": false
+    },
+    "timestamp": "2023-04-14T22:17:34.821Z"
+  },
+  {
+    "event": "Recent Item Navigated",
+    "properties": {
+      "method": "click",
+      "isDev": false
+    },
+    "timestamp": "2023-04-14T22:17:37.023Z"
+  },
+  {
+    "event": "App Closed",
+    "properties": {
+      "isDev": false
+    },
+    "timestamp": "2023-04-14T22:17:53.613Z"
+  }
+]

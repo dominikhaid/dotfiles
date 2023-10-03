@@ -1,0 +1,76 @@
+{
+	"settings_tcp": true,
+	"settings_cleanweb": false,
+	"settings_protocol": "auto",
+	"autoconnect_location": "fastest",
+	"autoconnect_enabled": false,
+	"autoconnect_trusted_physical_connection": [],
+	"locations_favorites": [
+		"e4ecb2a4-44f5-4b71-8f4e-96c554bc1fd0",
+		"d99e1618-1c5f-473d-b4a2-3346b22408d5"
+	],
+	"recents": [
+		{
+			"id": "3bb90d5c-5190-41a2-8aa0-2c9975df9a39",
+			"country": "Austria",
+			"countryCode": "AT",
+			"region": "Europe",
+			"regionCode": "EU",
+			"load": 29,
+			"type": "generic",
+			"location": "Vienna",
+			"connectionName": "at-vie.prod.surfshark.com",
+			"tags": [
+				"p2p"
+			],
+			"transitCluster": null,
+			"flagUrl": "https://cdn.ss-cdn.com/assets/flags/AT.png",
+			"pubKey": "dPZe8Jq3Hu0k07MDk+Y4+AS2XHSLYalyg91TSFXRYEA="
+		},
+		{
+			"country": "Germany",
+			"countryCode": "DE",
+			"region": "Europe",
+			"regionCode": "EU",
+			"load": 29,
+			"id": "cd2a0e6c-b33f-4bbe-b4b2-35984b45fd02",
+			"coordinates": {
+				"longitude": 8.683333,
+				"latitude": 50.116667
+			},
+			"info": [
+				{
+					"id": "2fa8c66c-137b-4e0c-89b9-43275eb98886",
+					"entry": {
+						"value": "U2FsdGVkX19naR+zi0+CyHhXNC9M0CRPxv50Pcl+DkM="
+					}
+				}
+			],
+			"type": "generic",
+			"location": "Frankfurt am Main",
+			"connectionName": "de-fra.prod.surfshark.com",
+			"pubKey": "fJDA+OA6jzQxfRcoHfC27xz7m3C8/590fRjpntzSpGo=",
+			"tags": [
+				"p2p"
+			],
+			"transitCluster": null,
+			"flagUrl": "https://cdn.ss-cdn.com/assets/flags/DE.png"
+		},
+		{
+			"id": "e8a483a0-67a4-4eba-b170-65b4d308818e",
+			"country": "Australia",
+			"countryCode": "AU",
+			"region": "Asia Pacific",
+			"regionCode": "AP",
+			"load": 15,
+			"type": "generic",
+			"location": "Sydney",
+			"connectionName": "au-syd.prod.surfshark.com",
+			"tags": [],
+			"transitCluster": null,
+			"flagUrl": "https://cdn.ss-cdn.com/assets/flags/AU.png",
+			"pubKey": "Y5KM9kHdM0upMsIJWUQquOY1RgkWX69AHw/Dl5KyIk4="
+		}
+	],
+	"quick_connect": "fastest"
+}

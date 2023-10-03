@@ -1,0 +1,30 @@
+{
+	"settings_autolaunch": true,
+	"settings_theme": "system",
+	"settings_language": "de",
+	"device_id": "eb2a1757-709f-42ef-8410-e3414710ee78",
+	"info": {
+		"1": "55142b8b-060b-45ea-a4ec-e2807cbdd1f9",
+		"2": "de",
+		"3": "1.2.1",
+		"4": "Debian GNU/Linux 11",
+		"5": "eb2a1757-709f-42ef-8410-e3414710ee78",
+		"6": "Deutsche Telekom AG",
+		"9": "Germany",
+		"10": 238,
+		"12": "Frankfurt am Main",
+		"13": "at-vie.prod.surfshark.com",
+		"14": "87.249.133.74",
+		"15": "wireguard",
+		"18": 0,
+		"19": 0,
+		"20": "Fastest",
+		"21": 0,
+		"22": "Fastest",
+		"28": "auto",
+		"32": "follow_system",
+		"38": 0,
+		"40": 0
+	},
+	"killswitch": false
+}

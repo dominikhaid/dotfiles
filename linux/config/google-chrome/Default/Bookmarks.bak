@@ -1,0 +1,40 @@
+{
+   "checksum": "8b35b70af779c2d372c5ba654cd2878f",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13292293501756335",
+            "guid": "0df4778e-9017-4232-abbb-d9bd31979b4e",
+            "id": "5",
+            "name": "Where is my IP location? (Geolocation)",
+            "type": "url",
+            "url": "https://www.iplocation.net/"
+         } ],
+         "date_added": "13292293195234317",
+         "date_modified": "13292293501756335",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Lesezeichenleiste",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13292293195234320",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Weitere Lesezeichen",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13292293195234322",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile Lesezeichen",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

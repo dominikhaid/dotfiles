@@ -1,0 +1,40 @@
+[Data Source]
+DisplayName=info@dominikhaid.de
+Enabled=true
+Parent=
+
+[Mail Account]
+BackendName=pop
+IdentityUid=bb646429c46e12fa15b55f14cf359e494df0c4ce
+ArchiveFolder=
+NeedsInitialSetup=false
+MarkSeen=inconsistent
+MarkSeenTimeout=1500
+
+[Authentication]
+Host=dominikhaid.de
+Method=none
+Port=995
+ProxyUid=system-proxy
+RememberPassword=true
+User=info@dominikhaid.de
+CredentialName=
+IsExternal=false
+
+[Refresh]
+Enabled=true
+IntervalMinutes=60
+
+[Security]
+Method=ssl-on-alternate-port
+
+[Pop Backend]
+FilterInbox=true
+StoreChangesInterval=3
+DeleteAfterDays=0
+DeleteExpunged=false
+DisableExtensions=false
+KeepOnServer=false
+AutoFetch=true
+EnableUtf8=true
+LastCacheExpunge=0

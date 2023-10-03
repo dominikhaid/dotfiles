@@ -1,0 +1,6 @@
+2022/04/23-17:54:10.115 43db8 Creating DB /home/dominik/.config/google-chrome/Default/IndexedDB/https_www.androidgreek.com_0.indexeddb.leveldb since it was missing.
+2022/04/23-17:54:10.137 43db8 Reusing MANIFEST /home/dominik/.config/google-chrome/Default/IndexedDB/https_www.androidgreek.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/23-17:54:13.710 43db8 Level-0 table #5: started
+2022/04/23-17:54:13.718 43db8 Level-0 table #5: 1054 bytes OK
+2022/04/23-17:54:13.728 43db8 Delete type=0 #3
+2022/04/23-17:54:13.728 43db8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

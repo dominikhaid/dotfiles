@@ -1,0 +1,18 @@
+{
+	"rememberMe": true,
+	"windowPositions": {
+		"starting": {
+			"x": 4,
+			"y": 34
+		},
+		"main": {
+			"x": 4,
+			"y": 34
+		}
+	},
+	"dataCenter": "defra01",
+	"datacenterSpeedtestUrl": "https://speedtest.defra01.shadow.tech",
+	"is-speed-test-done": "2023-04-14T22:31:06.074Z",
+	"session_start": "2023-04-15T00:25:32.834Z",
+	"lastReviewRequest": 1681519400030
+}

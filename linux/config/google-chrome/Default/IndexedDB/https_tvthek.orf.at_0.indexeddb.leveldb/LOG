@@ -1,0 +1,7 @@
+2022/11/12-20:42:07.371 7c21 Reusing MANIFEST /home/dominik/.config/google-chrome/Default/IndexedDB/https_tvthek.orf.at_0.indexeddb.leveldb/MANIFEST-000001
+2022/11/12-20:42:07.371 7c21 Recovering log #3
+2022/11/12-20:42:07.371 7c21 Reusing old log /home/dominik/.config/google-chrome/Default/IndexedDB/https_tvthek.orf.at_0.indexeddb.leveldb/000003.log 
+2022/11/12-20:42:10.570 7dc2 Level-0 table #5: started
+2022/11/12-20:42:10.576 7dc2 Level-0 table #5: 377 bytes OK
+2022/11/12-20:42:10.583 7dc2 Delete type=0 #3
+2022/11/12-20:42:10.583 7dc2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

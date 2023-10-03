@@ -1,0 +1,348 @@
+[2022-08-09 20:33:55.203] [info]  [ 'Using Realm version 32' ]
+[2023-04-15 00:13:35.508] [info]  [ 'Using Realm version 32' ]
+[2023-04-15 00:13:38.504] [info]  [
+  'download progress',
+  {
+    total: 107675318,
+    delta: 1097909,
+    transferred: 1097909,
+    percent: 1.0196477896633656,
+    bytesPerSecond: 1027043
+  }
+]
+[2023-04-15 00:13:39.503] [info]  [
+  'download progress',
+  {
+    total: 107675318,
+    delta: 3591513,
+    transferred: 4689422,
+    percent: 4.355150360456795,
+    bytesPerSecond: 2266516
+  }
+]
+[2023-04-15 00:13:40.505] [info]  [
+  'download progress',
+  {
+    total: 107675318,
+    delta: 1239250,
+    transferred: 5928672,
+    percent: 5.506064073105407,
+    bytesPerSecond: 1930535
+  }
+]
+[2023-04-15 00:13:41.523] [info]  [
+  'download progress',
+  {
+    total: 107675318,
+    delta: 1276777,
+    transferred: 7205449,
+    percent: 6.69182978405506,
+    bytesPerSecond: 1762585
+  }
+]
+[2023-04-15 00:13:42.538] [info]  [
+  'download progress',
+  {
+    total: 107675318,
+    delta: 1341142,
+    transferred: 8546591,
+    percent: 7.937372425498665,
+    bytesPerSecond: 1674489
+  }
+]
+[2023-04-15 00:13:43.557] [info]  [
+  'download progress',
+  {
+    total: 107675318,
+    delta: 1476906,
+    transferred: 10023497,
+    percent: 9.309001529951368,
+    bytesPerSecond: 1637291
+  }
+]
+[2023-04-15 00:13:44.577] [info]  [
+  'download progress',
+  {
+    total: 107675318,
+    delta: 1768299,
+    transferred: 11791796,
+    percent: 10.951252542388591,
+    bytesPerSecond: 1650818
+  }
+]
+[2023-04-15 00:13:45.596] [info]  [
+  'download progress',
+  {
+    total: 107675318,
+    delta: 2163861,
+    transferred: 13955657,
+    percent: 12.960869082364818,
+    bytesPerSecond: 1709833
+  }
+]
+[2023-04-15 00:13:46.613] [info]  [
+  'download progress',
+  {
+    total: 107675318,
+    delta: 2752514,
+    transferred: 16708171,
+    percent: 15.517178226490122,
+    bytesPerSecond: 1820459
+  }
+]
+[2023-04-15 00:13:47.613] [info]  [
+  'download progress',
+  {
+    total: 107675318,
+    delta: 3595170,
+    transferred: 20303341,
+    percent: 18.856077118806372,
+    bytesPerSecond: 1994826
+  }
+]
+[2023-04-15 00:13:48.613] [info]  [
+  'download progress',
+  {
+    total: 107675318,
+    delta: 4334884,
+    transferred: 24638225,
+    percent: 22.881961676676916,
+    bytesPerSecond: 2204171
+  }
+]
+[2023-04-15 00:13:49.613] [info]  [
+  'download progress',
+  {
+    total: 107675318,
+    delta: 4521641,
+    transferred: 29159866,
+    percent: 27.08129081169744,
+    bytesPerSecond: 2394471
+  }
+]
+[2023-04-15 00:13:50.621] [info]  [
+  'download progress',
+  {
+    total: 107675318,
+    delta: 2665538,
+    transferred: 31825404,
+    percent: 29.556823783887037,
+    bytesPerSecond: 2413392
+  }
+]
+[2023-04-15 00:13:51.623] [info]  [
+  'download progress',
+  {
+    total: 107675318,
+    delta: 2728444,
+    transferred: 34553848,
+    percent: 32.090778687089646,
+    bytesPerSecond: 2435428
+  }
+]
+[2023-04-15 00:13:52.625] [info]  [
+  'download progress',
+  {
+    total: 107675318,
+    delta: 4283706,
+    transferred: 38837554,
+    percent: 36.06913331799958,
+    bytesPerSecond: 2556784
+  }
+]
+[2023-04-15 00:13:53.625] [info]  [
+  'download progress',
+  {
+    total: 107675318,
+    delta: 4290362,
+    transferred: 43127916,
+    percent: 40.053669495547716,
+    bytesPerSecond: 2663861
+  }
+]
+[2023-04-15 00:13:54.624] [info]  [
+  'download progress',
+  {
+    total: 107675318,
+    delta: 4084919,
+    transferred: 47212835,
+    percent: 43.84740707243605,
+    bytesPerSecond: 2746529
+  }
+]
+[2023-04-15 00:13:55.625] [info]  [
+  'download progress',
+  {
+    total: 107675318,
+    delta: 4039223,
+    transferred: 51252058,
+    percent: 47.59870595413519,
+    bytesPerSecond: 2817440
+  }
+]
+[2023-04-15 00:13:56.626] [info]  [
+  'download progress',
+  {
+    total: 107675318,
+    delta: 4378037,
+    transferred: 55630095,
+    percent: 51.6646674774622,
+    bytesPerSecond: 2898609
+  }
+]
+[2023-04-15 00:13:57.628] [info]  [
+  'download progress',
+  {
+    total: 107675318,
+    delta: 4313557,
+    transferred: 59943652,
+    percent: 55.67074526773165,
+    bytesPerSecond: 2968536
+  }
+]
+[2023-04-15 00:13:58.627] [info]  [
+  'download progress',
+  {
+    total: 107675318,
+    delta: 4326300,
+    transferred: 64269952,
+    percent: 59.6886577107671,
+    bytesPerSecond: 3032603
+  }
+]
+[2023-04-15 00:13:59.628] [info]  [
+  'download progress',
+  {
+    total: 107675318,
+    delta: 4516831,
+    transferred: 68786783,
+    percent: 63.883519712474865,
+    bytesPerSecond: 3099341
+  }
+]
+[2023-04-15 00:14:00.628] [info]  [
+  'download progress',
+  {
+    total: 107675318,
+    delta: 4500217,
+    transferred: 73287000,
+    percent: 68.06295199425368,
+    bytesPerSecond: 3159740
+  }
+]
+[2023-04-15 00:14:01.643] [info]  [
+  'download progress',
+  {
+    total: 107675318,
+    delta: 4212184,
+    transferred: 77499184,
+    percent: 71.97488286034131,
+    bytesPerSecond: 3201387
+  }
+]
+[2023-04-15 00:14:02.658] [info]  [
+  'download progress',
+  {
+    total: 107675318,
+    delta: 4445039,
+    transferred: 81944223,
+    percent: 76.10307034338176,
+    bytesPerSecond: 3248661
+  }
+]
+[2023-04-15 00:14:03.662] [info]  [
+  'download progress',
+  {
+    total: 107675318,
+    delta: 4742338,
+    transferred: 86686561,
+    percent: 80.50736474258659,
+    bytesPerSecond: 3305115
+  }
+]
+[2023-04-15 00:14:04.663] [info]  [
+  'download progress',
+  {
+    total: 107675318,
+    delta: 4399512,
+    transferred: 91086073,
+    percent: 84.59327048377048,
+    bytesPerSecond: 3345309
+  }
+]
+[2023-04-15 00:14:05.683] [info]  [
+  'download progress',
+  {
+    total: 107675318,
+    delta: 4451122,
+    transferred: 95537195,
+    percent: 88.72710735806696,
+    bytesPerSecond: 3382087
+  }
+]
+[2023-04-15 00:14:06.683] [info]  [
+  'download progress',
+  {
+    total: 107675318,
+    delta: 4369883,
+    transferred: 99907078,
+    percent: 92.785496115275,
+    bytesPerSecond: 3415860
+  }
+]
+[2023-04-15 00:14:07.682] [info]  [
+  'download progress',
+  {
+    total: 107675318,
+    delta: 3573362,
+    transferred: 103480440,
+    percent: 96.10414152665888,
+    bytesPerSecond: 3421067
+  }
+]
+[2023-04-15 00:14:08.679] [info]  [
+  'download progress',
+  {
+    total: 107675318,
+    delta: 4194878,
+    transferred: 107675318,
+    percent: 100,
+    bytesPerSecond: 3446272
+  }
+]
+[2023-04-15 00:14:08.758] [info]  [
+  'update downloaded',
+  {
+    version: '1.1.12',
+    files: [
+      {
+        url: 'Stashpad.AppImage',
+        sha512: 'S+XRZIuvaUKJCBl9ddQc8CzJiXq48LlxIX4d35QE0sEvGjNZLHiiJKd6RyR+cfCah46eTVZe14SzdnV8jG6HDg==',
+        size: 107675318,
+        blockMapSize: 114378
+      }
+    ],
+    path: 'Stashpad.AppImage',
+    sha512: 'S+XRZIuvaUKJCBl9ddQc8CzJiXq48LlxIX4d35QE0sEvGjNZLHiiJKd6RyR+cfCah46eTVZe14SzdnV8jG6HDg==',
+    releaseDate: '2023-03-29T13:18:25.676Z',
+    downloadedFile: '/home/dominik/.cache/stashpad-updater/pending/Stashpad.AppImage'
+  }
+]
+[2023-04-15 00:16:47.043] [info]  [ 'Local file store has been initialized' ]
+[2023-04-15 00:16:47.064] [info]  [ 'Changed working directory to', '/home/dominik/.config/Stashpad' ]
+[2023-04-15 00:17:31.286] [info]  [
+  'Migrating local db to account',
+  '7c44158a-f8e8-491c-8795-9f1680e4ce2f'
+]
+[2023-04-15 00:17:31.369] [error] [
+  'Home was not found for the realm db we are attempting to migrate to.'
+]
+[2023-04-15 00:17:31.370] [info]  [ 'Merging databases' ]
+[2023-04-15 00:17:31.386] [info]  [
+  'Syncing Home and Trash to /home/dominik/.config/Stashpad/mongodb-realm/stashpad-bbbqw/6439d0f88ce8daab98d74864/flx_sync_default.realm for account',
+  '7c44158a-f8e8-491c-8795-9f1680e4ce2f'
+]
+[2023-04-15 00:17:32.194] [info]  [
+  'Backing up local realm db',
+  '/home/dominik/.config/Stashpad/backups/backup_2023-04-14T22_17_32_193Z-daily.realm'
+]

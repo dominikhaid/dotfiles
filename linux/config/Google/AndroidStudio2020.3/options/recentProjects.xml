@@ -1,0 +1,33 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/StudioProjects/test-dom">
+          <value>
+            <RecentProjectMetaInfo frameTitle="test-dom – test_dom.dart" projectWorkspaceId="21QIqo768DChAin3GVa6u5ofr8j">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-203.7717.56.2031.7784292" />
+              <option name="buildTimestamp" value="1633055805574" />
+              <frame x="260" y="40" width="1400" height="1000" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1637867079526" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dokumente/AndroidStudio/test-proj">
+          <value>
+            <RecentProjectMetaInfo frameTitle="test-proj – test_proj.dart" opened="true" projectWorkspaceId="21We4r94sw9TfyzmzHxn6b2l1Ii">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-203.7717.56.2031.7784292" />
+              <option name="buildTimestamp" value="1633055767408" />
+              <frame x="0" y="35" width="1920" height="1045" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1638061084913" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/Dokumente/AndroidStudio" />
+  </component>
+</application>

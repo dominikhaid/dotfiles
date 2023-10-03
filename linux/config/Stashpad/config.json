@@ -1,0 +1,27 @@
+{
+	"main_window_position": {
+		"x": 964,
+		"y": 34,
+		"width": 952,
+		"height": 1042
+	},
+	"window_background_color": "#232323",
+	"zoom_factor": 1,
+	"session": {
+		"_id": "7c44158a-f8e8-491c-8795-9f1680e4ce2f",
+		"email": "system@dominikhaid.de",
+		"firstName": "",
+		"lastName": "",
+		"authProviderId": "user-live-af8b8fc1-41c6-442b-930e-c23eae4efa21",
+		"createdAt": "2023-04-14T22:17:15.900Z",
+		"modifiedAt": "2023-04-14T22:17:15.900Z",
+		"syncEnabled": true,
+		"referralId": "sp_ref_E2K8RK1Tw0CLuReaAtaE",
+		"byteLimit": 50,
+		"byteLimitGraceCount": 10,
+		"activeSubscription": null,
+		"accountId": "7c44158a-f8e8-491c-8795-9f1680e4ce2f",
+		"sessionJwt": "eyJhbGciOiJSUzI1NiIsImtpZCI6Imp3ay1saXZlLTg2NTgwZTM2LTRkMWItNGY4MS1hNWFhLWY5MDg0YTJhMTVkYyIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsicHJvamVjdC1saXZlLTRlNmZjMDE4LWExMDktNGQwZC04ZDFmLTMyNmZiYjVjMDI2YyJdLCJleHAiOjE2ODE1MTA5MzYsImh0dHBzOi8vc3R5dGNoLmNvbS9zZXNzaW9uIjp7ImlkIjoic2Vzc2lvbi1saXZlLWI3MTdlNjA0LWQ5NjAtNGYxYi04NGJjLTA0YjhlNTU2OGQzYyIsInN0YXJ0ZWRfYXQiOiIyMDIzLTA0LTE0VDIyOjE3OjE1WiIsImxhc3RfYWNjZXNzZWRfYXQiOiIyMDIzLTA0LTE0VDIyOjE3OjE1WiIsImV4cGlyZXNfYXQiOiIyMDIzLTA3LTEzVDIyOjE3OjE1WiIsImF0dHJpYnV0ZXMiOnsidXNlcl9hZ2VudCI6IiIsImlwX2FkZHJlc3MiOiIifSwiYXV0aGVudGljYXRpb25fZmFjdG9ycyI6W3sidHlwZSI6Im9hdXRoIiwiZGVsaXZlcnlfbWV0aG9kIjoib2F1dGhfZ2l0aHViIiwibGFzdF9hdXRoZW50aWNhdGVkX2F0IjoiMjAyMy0wNC0xNFQyMjoxNzoxNVoiLCJnaXRodWJfb2F1dGhfZmFjdG9yIjp7ImlkIjoib2F1dGgtdXNlci1saXZlLTQ1YWZhNGJhLTU1YzYtNGNjYS1iODcwLTE5ZjgwYjcwMGY5MSIsInByb3ZpZGVyX3N1YmplY3QiOiI0Njg4NjIyMCJ9fV19LCJpYXQiOjE2ODE1MTA2MzYsImlzcyI6InN0eXRjaC5jb20vcHJvamVjdC1saXZlLTRlNmZjMDE4LWExMDktNGQwZC04ZDFmLTMyNmZiYjVjMDI2YyIsIm5iZiI6MTY4MTUxMDYzNiwic3Rhc2hwYWRJZCI6IjdjNDQxNThhLWY4ZTgtNDkxYy04Nzk1LTlmMTY4MGU0Y2UyZiIsInN1YiI6InVzZXItbGl2ZS1hZjhiOGZjMS00MWM2LTQ0MmItOTMwZS1jMjNlYWU0ZWZhMjEifQ.h2EAJqG8MezZIaet6yq7FgFuLGtS-hLZjT5xwYF-Or8TLuR0kodRy4lxzcKfHt92OpOvuw_dz5sXX0Ma9620VDLaxsDjXZmFQf_6uHauTLPwNIPZ_sLnMN1qj9dDlGFTX3B6ZsmHxIAqrlNMAshVx-uDrQCDfFojtKeCc4UpbobjrJUU-qAe9bDpz8OjV299JSsv_KdvMY2cY1t6nkcd9eNgIpBPQEJH8MBN_m9hyxBc6oSyIgwQXT7Zdwum5thWqVR-PeBj8HFJ6uY75HDn8yluBNA0QIthwSgMpnG1qVF84tAalI1ldA5YpwdTLoydf8L5nklZp6Ljh9NsSZIv5w"
+	},
+	"is_sticky": false
+}

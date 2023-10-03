@@ -1,0 +1,20 @@
+{
+	"enabled": true,
+	"loggedIn": true,
+	"syncEnabled": true,
+	"trackArrowUsed": true,
+	"trackByteBlurred": true,
+	"trackByteColored": true,
+	"trackByteCreated": true,
+	"trackByteDeleted": true,
+	"trackByteEdited": true,
+	"trackByteMoved": true,
+	"trackCmdKInteracted": true,
+	"trackCmdKOpened": true,
+	"trackKeybindingChanged": true,
+	"trackPinnedItemNavigated": true,
+	"trackRecentItemNavigated": true,
+	"trackStackExpanded": true,
+	"trackWindowResized": true,
+	"uuid": "084835cc-4365-4de5-9003-81b29d3348b7"
+}

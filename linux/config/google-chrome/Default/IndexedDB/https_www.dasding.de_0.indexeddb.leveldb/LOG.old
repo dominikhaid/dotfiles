@@ -1,0 +1,14 @@
+2022/04/14-16:25:50.325 45ed Reusing MANIFEST /home/dominik/.config/google-chrome/Default/IndexedDB/https_www.dasding.de_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/14-16:25:50.325 45ed Recovering log #22
+2022/04/14-16:25:50.325 45ed Reusing old log /home/dominik/.config/google-chrome/Default/IndexedDB/https_www.dasding.de_0.indexeddb.leveldb/000022.log 
+2022/04/14-16:25:50.326 45ed Delete type=2 #20
+2022/04/14-16:25:50.352 45ec Level-0 table #27: started
+2022/04/14-16:25:50.358 45ec Level-0 table #27: 597 bytes OK
+2022/04/14-16:25:50.365 45ec Delete type=0 #22
+2022/04/14-16:25:50.366 45ec Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\x05' @ 121 : 1
+2022/04/14-16:25:50.366 45ec Compacting 1@0 + 1@1 files
+2022/04/14-16:25:50.372 45ec Generated table #28@0: 7 keys, 617 bytes
+2022/04/14-16:25:50.372 45ec Compacted 1@0 + 1@1 files => 617 bytes
+2022/04/14-16:25:50.378 45ec compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/04/14-16:25:50.379 45ec Delete type=2 #27
+2022/04/14-16:25:50.379 45ec Manual compaction at level-0 from '\x00\x07\x00\x00\x05' @ 121 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)

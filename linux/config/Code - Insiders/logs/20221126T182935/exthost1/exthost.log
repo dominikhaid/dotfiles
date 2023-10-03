@@ -1,0 +1,8 @@
+[2022-11-26 18:29:38.244] [exthost] [info] Extension host with pid 264652 started
+[2022-11-26 18:29:38.245] [exthost] [info] Skipping acquiring lock for /home/dominik/.config/Code - Insiders/User/workspaceStorage/47532fa687061e2ca1f3564e3fdd935e.
+[2022-11-26 18:29:38.319] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-11-26 18:29:38.377] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-11-26 18:29:38.383] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-11-26 18:29:38.390] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-11-26 18:29:38.478] [exthost] [info] Extension host terminating: renderer closed the MessagePort
+[2022-11-26 18:29:38.486] [exthost] [info] Extension host with pid 264652 exiting with code 0

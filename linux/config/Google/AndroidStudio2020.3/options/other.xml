@@ -1,0 +1,55 @@
+<application>
+  <component name="ProjectPluginTrackerManager">
+    <option name="trackers">
+      <map>
+        <entry key="21QIqo768DChAin3GVa6u5ofr8j">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="21We4r94sw9TfyzmzHxn6b2l1Ii">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="Default (Template) Project">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="AndroidInitConfigurator.V1" value="true" />
+    <property name="AndroidInitConfigurator.V3" value="true" />
+    <property name="AndroidInitConfigurator.V5" value="true" />
+    <property name="DART_PROJECT_TEMPLATE" value="Simple Console Application" />
+    <property name="DART_SDK_KNOWN_PATHS" value="$USER_HOME$/dev/flutter/bin/cache/dart-sdk" />
+    <property name="FLUTTER_LAST_SURVEY_CONTENT_CHECK_KEY" value="1637867111708" />
+    <property name="FLUTTER_LAST_SURVEY_PROMPT_KEY" value="1637867115765" />
+    <property name="InstalledPluginsSearchHistory" value="dart" />
+    <property name="MarketplacePluginsSearchHistory" value="dart&#10;da&#10;d&#10;flutte&#10;flutt" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="appcds.runOnSecondStart" value="AI-203.7717.56.2031.7784292-9864d104e1535835deb202e01e1c843db3099fbc6346a9fc4a8196949f67e728" />
+    <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Dokumente/AndroidStudio&#10;/home/dominik/dev/flutter/bin/cache/dart-sdk&#10;/home/dominik/dev/flutter/bin/cache/dart-sdk/bin" />
+    <property name="fileTypeChangedCounter" value="4" />
+    <property name="ide.updates.previous.build.number" value="AI-203.7717.56.2031.7784292" />
+    <property name="ideavim.statistics.timestamp" value="1638061096580" />
+    <property name="installed.kotlin.plugin.version" value="203-1.6.0-release-798-AS7717.8" />
+    <property name="io.flutter.analytics.clientId" value="5661940c-2e33-4c3d-af57-8e646789f11c" />
+    <property name="io.flutter.analytics.toastShown" value="true" />
+    <property name="io.flutter.console.preferencesSet" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="kotlin.plugin.releaseDate" value="203-1.6.0-release-798-AS7717.8:2021-11-15" />
+    <property name="lastSeenTip" value="Kotlin_project.html" />
+    <property name="lastTimeTipsWereShown" value="1638061093313" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Dokumente/AndroidStudio" />
+    <property name="project.wizard.group" value="DartModuleBuilder" />
+    <property name="seenTips" value="Kotlin_mix.html,Kotlin_project.html" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+  </component>
+</application>

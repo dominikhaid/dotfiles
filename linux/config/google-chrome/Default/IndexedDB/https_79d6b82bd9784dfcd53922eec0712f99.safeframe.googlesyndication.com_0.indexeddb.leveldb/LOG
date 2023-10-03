@@ -1,0 +1,6 @@
+2022/01/08-01:16:42.933 1a00b Creating DB /home/dominik/.config/google-chrome/Default/IndexedDB/https_79d6b82bd9784dfcd53922eec0712f99.safeframe.googlesyndication.com_0.indexeddb.leveldb since it was missing.
+2022/01/08-01:16:42.956 1a00b Reusing MANIFEST /home/dominik/.config/google-chrome/Default/IndexedDB/https_79d6b82bd9784dfcd53922eec0712f99.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/08-01:16:45.139 1a62f Level-0 table #5: started
+2022/01/08-01:16:45.148 1a62f Level-0 table #5: 480 bytes OK
+2022/01/08-01:16:45.159 1a62f Delete type=0 #3
+2022/01/08-01:16:45.159 1a62f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

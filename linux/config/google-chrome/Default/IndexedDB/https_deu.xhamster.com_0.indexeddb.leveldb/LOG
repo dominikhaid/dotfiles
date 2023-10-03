@@ -1,0 +1,13 @@
+2022/04/13-22:57:39.379 eac Reusing MANIFEST /home/dominik/.config/google-chrome/Default/IndexedDB/https_deu.xhamster.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/13-22:57:39.379 eac Recovering log #7
+2022/04/13-22:57:39.380 eac Reusing old log /home/dominik/.config/google-chrome/Default/IndexedDB/https_deu.xhamster.com_0.indexeddb.leveldb/000007.log 
+2022/04/13-22:57:40.877 25c2 Level-0 table #11: started
+2022/04/13-22:57:40.886 25c2 Level-0 table #11: 1238 bytes OK
+2022/04/13-22:57:40.893 25c2 Delete type=0 #7
+2022/04/13-22:57:40.893 25c2 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at '\x00\x03\x01\x02\x01\x05\x008\x00w\x00y\x00v\x00m' @ 205 : 1
+2022/04/13-22:57:40.893 25c2 Compacting 1@0 + 1@1 files
+2022/04/13-22:57:40.900 25c2 Generated table #12@0: 24 keys, 579 bytes
+2022/04/13-22:57:40.900 25c2 Compacted 1@0 + 1@1 files => 579 bytes
+2022/04/13-22:57:40.915 25c2 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/04/13-22:57:40.915 25c2 Delete type=2 #11
+2022/04/13-22:57:40.915 25c2 Manual compaction at level-0 from '\x00\x03\x01\x02\x01\x05\x008\x00w\x00y\x00v\x00m' @ 205 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)

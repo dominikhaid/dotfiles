@@ -1,1 +1,0 @@
-/home/dominik/.local/share/broot/launcher/fish/br.fish

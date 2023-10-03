@@ -1,0 +1,16 @@
+{
+    "cookiePopups": [
+        "https://ss-extension-filters.s3.eu-central-1.amazonaws.com/i-dont-care-about-cookies.txt.gz",
+        "https://ss-extension-filters.s3.eu-central-1.amazonaws.com/fanboy-cookiemonster.txt.gz"
+    ],
+    "adsAndTrackers": [
+        "https://ss-extension-filters.s3.eu-central-1.amazonaws.com/easylist.txt.gz",
+        "https://ss-extension-filters.s3.eu-central-1.amazonaws.com/easyprivacy.txt.gz",
+        "https://ss-extension-filters.s3.eu-central-1.amazonaws.com/easylistlithuania.txt.gz",
+        "https://ss-extension-filters.s3.eu-central-1.amazonaws.com/ublock-filters.txt.gz",
+        "https://ss-extension-filters.s3.eu-central-1.amazonaws.com/ublock-filters-2020.txt.gz"
+    ],
+    "malware": ["https://ss-extension-filters.s3.eu-central-1.amazonaws.com/urlhaus-filter.txt.gz"],
+    "phishing": ["https://ss-extension-filters.s3.eu-central-1.amazonaws.com/phishing-filter.txt.gz"],
+    "uBlockResources": "https://ss-extension-filters.s3.eu-central-1.amazonaws.com/ublock-resources.txt.gz"
+}

@@ -1,0 +1,8 @@
+Error while parsing hooks JSON. Error: "ENOENT: no such file or directory, open '/home/dominik/.config/Microsoft/Microsoft Teams/hooks.json'"
+(node:2564) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+
+(teams:2564): Gtk-WARNING **: 20:51:01.582: Unknown key ;gtk-icon-theme-name in /home/dominik/.config/gtk-3.0/settings.ini
+
+(teams:2564): Gtk-WARNING **: 20:51:01.582: Unknown key ;gtk-font-name in /home/dominik/.config/gtk-3.0/settings.ini
+(node:2564) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 ecsSettingsUpdated listeners added to [EventEmitter]. Use emitter.setMaxListeners() to increase limit
+(node:2564) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 appInitialized listeners added to [EventEmitter]. Use emitter.setMaxListeners() to increase limit

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<braseroproject>
+	<version>0.2</version>
+	<label>Audio-CD (13 Sep 22)</label>
+	<track>
+		<audio>
+			<uri>file%3A%2F%2F%2Fhome%2Fdominik%2FDownloads%2FThe%2520Jimi%2520Hendrix%2520Experience%2520-%2520Hey%2520Joe%2520%28Official%2520Audio%29.mp3</uri>
+			<start>0</start>
+			<end>227256000000</end>
+			<title>The%20Jimi%20Hendrix%20Experience%20-%20Hey%20Joe%20%28Official%20Audio%29</title>
+			<artist>JimiHendrixVEVO</artist>
+		</audio>
+		<audio>
+			<uri>file%3A%2F%2F%2Fhome%2Fdominik%2FDownloads%2FIch%2520bete%2520an%2520die%2520Macht%2520der%2520Liebe%2520%28Instrumental%29.mp3</uri>
+			<start>0</start>
+			<end>217656000000</end>
+			<title>Ich%20bete%20an%20die%20Macht%20der%20Liebe%20%28Instrumental%29</title>
+			<artist>Team%20Songhouse</artist>
+		</audio>
+		<audio>
+			<uri>file%3A%2F%2F%2Fhome%2Fdominik%2FDownloads%2FSo%2520nimm%2520denn%2520meine%2520H%25C3%25A4nde%2520-%2520Hymn%2520-%2520Berlin%2520Reed%2520Organ.mp3</uri>
+			<start>0</start>
+			<end>191688000000</end>
+			<title>So%20nimm%20denn%20meine%20H%C3%A4nde%20-%20Hymn%20-%20Berlin%20Reed%20Organ</title>
+			<artist>Rodney%20Jantzi</artist>
+		</audio>
+	</track>
+</braseroproject>

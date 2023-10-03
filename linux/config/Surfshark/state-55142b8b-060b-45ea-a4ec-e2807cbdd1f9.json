@@ -1,0 +1,47 @@
+{
+	"user-state": {
+		"status": "logged-in",
+		"me": {
+			"userServices": [],
+			"daysAfterSignup": 238,
+			"email": "info@dominikhaid.de",
+			"twoFactorAuth": null,
+			"roles": [],
+			"availableRoles": [],
+			"passwordUpdatedAt": "2022-03-19T13:52:50+00:00",
+			"allowPromotion": true,
+			"language": "en",
+			"billingInfo": null,
+			"technologies": [
+				"vpn"
+			],
+			"id": "55142b8b-060b-45ea-a4ec-e2807cbdd1f9"
+		},
+		"userData": {
+			"ip": "87.249.133.74",
+			"isp": "",
+			"countryCode": "AT",
+			"country": "Austria",
+			"region": "",
+			"currency": "",
+			"city": "",
+			"zipCode": "",
+			"secured": true,
+			"torrent": false,
+			"restricted": false
+		},
+		"originalUserData": {
+			"ip": "217.83.145.12",
+			"isp": "Deutsche Telekom AG",
+			"countryCode": "DE",
+			"country": "Germany",
+			"region": "Hessen",
+			"currency": "EUR",
+			"city": "Frankfurt am Main",
+			"zipCode": "65931",
+			"secured": false,
+			"torrent": false,
+			"restricted": false
+		}
+	}
+}

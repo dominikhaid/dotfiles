@@ -1,0 +1,130 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="scratchpad" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Markdown">
+      <summary usageCount="1" lastUsed="1681511254446" />
+    </fileType>
+    <fileType name="Rust">
+      <summary usageCount="1" lastUsed="1681511534013" />
+    </fileType>
+    <fileType name="WebPreview">
+      <summary usageCount="1" lastUsed="1681511260608" />
+    </fileType>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1681511254450" />
+    </language>
+    <language id="Rust">
+      <summary usageCount="1" lastUsage="1681511534013" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="scratchpad" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/dominik/Dokumente/github/scratchpad}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scratchpad" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/dominik/Dokumente/github/scratchpad}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dominik/Dokumente/github/scratchpad/rust}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scratchpad" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/dominik/Dokumente/github/scratchpad}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dominik/Dokumente/github/scratchpad/rust}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dominik/Dokumente/github/scratchpad/rust/examples}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scratchpad" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/dominik/Dokumente/github/scratchpad}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dominik/Dokumente/github/scratchpad/rust}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dominik/Dokumente/github/scratchpad/rust/examples}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/dominik/Dokumente/github/scratchpad/rust/examples/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16448745" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.3296545" />
+      <window_info anchor="bottom" id="Python Packages" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info active="true" anchor="right" id="Meet New UI" side_tool="true" visible="true" weight="0.16448745" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Database" order="1" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.25" />
+      <window_info anchor="right" id="Web Inspector" order="4" weight="0.25" />
+      <unified_weights bottom="0.3296545" left="0.16448745" right="0.16448745" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Terminal</value>
+      <value>Meet New UI</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="748" y="328" key="FileChooserDialogImpl" timestamp="1681511555742">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="748" y="328" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1681511555742" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rust/examples/src/collections/hashmap.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-132" />
+      </provider>
+    </entry>
+  </component>
+</project>

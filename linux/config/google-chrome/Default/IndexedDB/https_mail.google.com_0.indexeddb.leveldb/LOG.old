@@ -1,0 +1,6 @@
+2023/03/16-14:01:03.175 ae2 Reusing MANIFEST /home/dominik/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/16-14:01:03.175 ae2 Recovering log #3
+2023/03/16-14:01:03.188 ae2 Reusing old log /home/dominik/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
+2023/03/16-14:01:18.492 ae2 Level-0 table #5: started
+2023/03/16-14:01:18.513 ae2 Level-0 table #5: 1906160 bytes OK
+2023/03/16-14:01:18.528 ae2 Delete type=0 #3

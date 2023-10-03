@@ -1,0 +1,38 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="960" y="300" />
+  </component>
+  <component name="WindowManager">
+    <frame x="0" y="35" width="1920" height="1045" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+    </layout>
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="648" y="288" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1637598639275">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="648" y="288" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080" timestamp="1637598639275" />
+    <state x="688" y="233" key="FileChooserDialogImpl" timestamp="1638061028608">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="688" y="233" key="FileChooserDialogImpl/0.0.1920.1080" timestamp="1638061028608" />
+    <state x="658" y="74" key="SettingsEditor" timestamp="1638061061394">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="658" y="74" key="SettingsEditor/0.0.1920.1080" timestamp="1638061061394" />
+    <state x="960" y="460" key="WELCOME_SCREEN" timestamp="1637606395645">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="960" y="460" key="WELCOME_SCREEN/0.0.1920.1080" timestamp="1637606395645" />
+    <state x="264" y="98" width="835" height="861" key="new project wizard" timestamp="1638061082479">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="264" y="98" width="835" height="861" key="new project wizard/0.0.1920.1080" timestamp="1638061082479" />
+  </component>
+</application>

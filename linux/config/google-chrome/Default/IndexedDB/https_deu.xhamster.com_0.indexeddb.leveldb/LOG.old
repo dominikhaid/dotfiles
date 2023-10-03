@@ -1,0 +1,7 @@
+2022/04/13-22:57:11.356 ea8 Reusing MANIFEST /home/dominik/.config/google-chrome/Default/IndexedDB/https_deu.xhamster.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/13-22:57:11.357 ea8 Recovering log #4
+2022/04/13-22:57:11.357 ea8 Reusing old log /home/dominik/.config/google-chrome/Default/IndexedDB/https_deu.xhamster.com_0.indexeddb.leveldb/000004.log 
+2022/04/13-22:57:19.651 ea8 Level-0 table #8: started
+2022/04/13-22:57:19.657 ea8 Level-0 table #8: 1242 bytes OK
+2022/04/13-22:57:19.664 ea8 Delete type=0 #4
+2022/04/13-22:57:19.664 ea8 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

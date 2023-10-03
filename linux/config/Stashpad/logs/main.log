@@ -1,0 +1,196 @@
+[2022-08-09 20:33:52.212] [info]  [ 'Checking for Updates' ]
+[2022-08-09 20:33:52.218] [info]  [ 'Checking for update' ]
+[2022-08-09 20:33:52.219] [info]  [ 'AUTO UPDATER:checking-for-update:' ]
+[2022-08-09 20:33:52.232] [info]  [
+  'Generated new staging user ID: f65c1bd2-90f7-564a-aaac-5377c78f396c'
+]
+[2022-08-09 20:33:53.390] [info]  [
+  'Update for version 1.0.4 is not available (latest version: 1.0.4, downgrade is disallowed).'
+]
+[2023-04-15 00:13:33.501] [info]  [ 'Checking for Updates' ]
+[2023-04-15 00:13:33.509] [info]  [ 'Checking for update' ]
+[2023-04-15 00:13:33.510] [info]  [ 'AUTO UPDATER:checking-for-update:' ]
+[2023-04-15 00:13:34.205] [info]  [ 'Found version 1.1.12 (url: Stashpad.AppImage)' ]
+[2023-04-15 00:13:34.206] [info]  [
+  'AUTO UPDATER:update-available:',
+  {
+    version: '1.1.12',
+    files: [
+      {
+        url: 'Stashpad.AppImage',
+        sha512: 'S+XRZIuvaUKJCBl9ddQc8CzJiXq48LlxIX4d35QE0sEvGjNZLHiiJKd6RyR+cfCah46eTVZe14SzdnV8jG6HDg==',
+        size: 107675318,
+        blockMapSize: 114378
+      }
+    ],
+    path: 'Stashpad.AppImage',
+    sha512: 'S+XRZIuvaUKJCBl9ddQc8CzJiXq48LlxIX4d35QE0sEvGjNZLHiiJKd6RyR+cfCah46eTVZe14SzdnV8jG6HDg==',
+    releaseDate: '2023-03-29T13:18:25.676Z'
+  }
+]
+[2023-04-15 00:13:34.209] [info]  [ 'Downloading update from Stashpad.AppImage' ]
+[2023-04-15 00:13:34.776] [error] [
+  "Cannot download differentially, fallback to full download: Error: Server doesn't support Accept-Ranges (response code 200)\n" +
+    '    at Object.o [as checkIsRangesSupported] (/tmp/.mount_Stashp8bxUqH/resources/app.asar/dist/main/main.js:2:353942)\n' +
+    '    at ClientRequest.<anonymous> (/tmp/.mount_Stashp8bxUqH/resources/app.asar/dist/main/main.js:2:348136)\n' +
+    '    at ClientRequest.emit (node:events:390:28)\n' +
+    '    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:6917)\n' +
+    '    at SimpleURLLoaderWrapper.emit (node:events:390:28)'
+]
+[2023-04-15 00:14:08.685] [info]  [
+  'New version 1.1.12 has been downloaded to /home/dominik/.cache/stashpad-updater/pending/Stashpad.AppImage'
+]
+[2023-04-15 00:14:08.697] [info]  [
+  'AUTO UPDATER:update-downloaded:',
+  {
+    version: '1.1.12',
+    files: [
+      {
+        url: 'Stashpad.AppImage',
+        sha512: 'S+XRZIuvaUKJCBl9ddQc8CzJiXq48LlxIX4d35QE0sEvGjNZLHiiJKd6RyR+cfCah46eTVZe14SzdnV8jG6HDg==',
+        size: 107675318,
+        blockMapSize: 114378
+      }
+    ],
+    path: 'Stashpad.AppImage',
+    sha512: 'S+XRZIuvaUKJCBl9ddQc8CzJiXq48LlxIX4d35QE0sEvGjNZLHiiJKd6RyR+cfCah46eTVZe14SzdnV8jG6HDg==',
+    releaseDate: '2023-03-29T13:18:25.676Z',
+    downloadedFile: '/home/dominik/.cache/stashpad-updater/pending/Stashpad.AppImage'
+  }
+]
+[2023-04-15 00:16:33.778] [info]  [ 'Quit and Install' ]
+[2023-04-15 00:16:33.778] [info]  [ 'Install on explicit quitAndInstall' ]
+[2023-04-15 00:16:33.779] [info]  [ 'Install: isSilent: false, isForceRunAfter: true' ]
+[2023-04-15 00:16:33.838] [info]  [
+  'Update installer has already been triggered. Quitting application.'
+]
+[2023-04-15 00:16:42.621] [error] [
+  'Analytics failed to open realm',
+  "Error: Primary key property 'PinnedStack._id' has duplicate values after migration.\n" +
+    '    at /tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:199369\n' +
+    '    at new i (/tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:199625)\n' +
+    '    at 52085 (/tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:225892)\n' +
+    '    at r (/tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:2190896)\n' +
+    '    at /tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:2191406\n' +
+    '    at Object.<anonymous> (/tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:2191437)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1120:14)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:988:32)\n' +
+    '    at Module._load (node:internal/modules/cjs/loader:829:12)'
+]
+[2023-04-15 00:16:42.638] [info]  [ 'Migrating from 32 to 33' ]
+[2023-04-15 00:16:42.660] [info]  [ 'Migrating from 33 to 34' ]
+[2023-04-15 00:16:42.677] [info]  [ 'Migrating from 34 to 35' ]
+[2023-04-15 00:16:42.693] [info]  [ 'Migrating from 35 to 36' ]
+[2023-04-15 00:16:42.710] [info]  [ 'Migrating from 36 to 37' ]
+[2023-04-15 00:16:42.729] [info]  [ 'Migrating from 37 to 38' ]
+[2023-04-15 00:16:42.746] [info]  [ 'Migrating from 38 to 39' ]
+[2023-04-15 00:16:42.762] [info]  [ 'Migrating from 39 to 40' ]
+[2023-04-15 00:16:42.779] [info]  [ 'Migrating from 40 to 41' ]
+[2023-04-15 00:16:42.797] [info]  [ 'Migrating from 41 to 42' ]
+[2023-04-15 00:16:42.812] [info]  [ 'Using Realm version 42' ]
+[2023-04-15 00:16:44.049] [info]  [ 'Checking for Updates' ]
+[2023-04-15 00:16:44.050] [info]  [ 'Checking for update' ]
+[2023-04-15 00:16:44.050] [info]  [ 'AUTO UPDATER:checking-for-update:' ]
+[2023-04-15 00:16:44.849] [info]  [
+  'Update for version 1.1.12 is not available (latest version: 1.1.12, downgrade is disallowed).'
+]
+[2023-04-15 00:16:47.537] [error] UnhandledRejection TypeError: Error processing argument at index 0, conversion failure from 
+    at /tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:234660
+    at d (/tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:219234)
+    at Generator.<anonymous> (/tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:220572)
+    at Generator.next (/tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:219597)
+    at Nc (/tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:225228)
+    at o (/tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:225432)
+    at /tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:225493
+    at new Promise (<anonymous>)
+    at IpcMainImpl.<anonymous> (/tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:225372)
+    at IpcMainImpl.<anonymous> (/tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:234755)
+[2023-04-15 00:16:47.592] [error] os: Linux 5.10.0-20-amd64, app: Stashpad 1.1.12, electron: Electron 20.0.1
+[2023-04-15 00:16:47.593] [error] [
+  'Unhandled Rejection:',
+  'UnhandledRejection TypeError: Error processing argument at index 0, conversion failure from \n' +
+    '    at /tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:234660\n' +
+    '    at d (/tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:219234)\n' +
+    '    at Generator.<anonymous> (/tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:220572)\n' +
+    '    at Generator.next (/tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:219597)\n' +
+    '    at Nc (/tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:225228)\n' +
+    '    at o (/tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:225432)\n' +
+    '    at /tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:225493\n' +
+    '    at new Promise (<anonymous>)\n' +
+    '    at IpcMainImpl.<anonymous> (/tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:225372)\n' +
+    '    at IpcMainImpl.<anonymous> (/tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:234755)'
+]
+[2023-04-15 00:16:47.782] [info]  [ 'Registered CommandOrControl+Shift+0 shortcut' ]
+[2023-04-15 00:17:26.738] [info]  [ 'Using Realm version 42' ]
+[2023-04-15 00:17:26.872] [info]  [
+  'Command line from second instance',
+  [
+    '/tmp/.mount_StashprMzc1f/stashpad',
+    '--no-sandbox',
+    '--enable-crashpad',
+    '--allow-file-access-from-files',
+    'stashpad://auth?email=system@dominikhaid.de&accountId=7c44158a-f8e8-491c-8795-9f1680e4ce2f&sessionId=session-live-b717e604-d960-4f1b-84bc-04b8e5568d3c&sessionJwt=eyJhbGciOiJSUzI1NiIsImtpZCI6Imp3ay1saXZlLTg2NTgwZTM2LTRkMWItNGY4MS1hNWFhLWY5MDg0YTJhMTVkYyIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsicHJvamVjdC1saXZlLTRlNmZjMDE4LWExMDktNGQwZC04ZDFmLTMyNmZiYjVjMDI2YyJdLCJleHAiOjE2ODE1MTA5MzYsImh0dHBzOi8vc3R5dGNoLmNvbS9zZXNzaW9uIjp7ImlkIjoic2Vzc2lvbi1saXZlLWI3MTdlNjA0LWQ5NjAtNGYxYi04NGJjLTA0YjhlNTU2OGQzYyIsInN0YXJ0ZWRfYXQiOiIyMDIzLTA0LTE0VDIyOjE3OjE1WiIsImxhc3RfYWNjZXNzZWRfYXQiOiIyMDIzLTA0LTE0VDIyOjE3OjE1WiIsImV4cGlyZXNfYXQiOiIyMDIzLTA3LTEzVDIyOjE3OjE1WiIsImF0dHJpYnV0ZXMiOnsidXNlcl9hZ2VudCI6IiIsImlwX2FkZHJlc3MiOiIifSwiYXV0aGVudGljYXRpb25fZmFjdG9ycyI6W3sidHlwZSI6Im9hdXRoIiwiZGVsaXZlcnlfbWV0aG9kIjoib2F1dGhfZ2l0aHViIiwibGFzdF9hdXRoZW50aWNhdGVkX2F0IjoiMjAyMy0wNC0xNFQyMjoxNzoxNVoiLCJnaXRodWJfb2F1dGhfZmFjdG9yIjp7ImlkIjoib2F1dGgtdXNlci1saXZlLTQ1YWZhNGJhLTU1YzYtNGNjYS1iODcwLTE5ZjgwYjcwMGY5MSIsInByb3ZpZGVyX3N1YmplY3QiOiI0Njg4NjIyMCJ9fV19LCJpYXQiOjE2ODE1MTA2MzYsImlzcyI6InN0eXRjaC5jb20vcHJvamVjdC1saXZlLTRlNmZjMDE4LWExMDktNGQwZC04ZDFmLTMyNmZiYjVjMDI2YyIsIm5iZiI6MTY4MTUxMDYzNiwic3Rhc2hwYWRJZCI6IjdjNDQxNThhLWY4ZTgtNDkxYy04Nzk1LTlmMTY4MGU0Y2UyZiIsInN1YiI6InVzZXItbGl2ZS1hZjhiOGZjMS00MWM2LTQ0MmItOTMwZS1jMjNlYWU0ZWZhMjEifQ.h2EAJqG8MezZIaet6yq7FgFuLGtS-hLZjT5xwYF-Or8TLuR0kodRy4lxzcKfHt92OpOvuw_dz5sXX0Ma9620VDLaxsDjXZmFQf_6uHauTLPwNIPZ_sLnMN1qj9dDlGFTX3B6ZsmHxIAqrlNMAshVx-uDrQCDfFojtKeCc4UpbobjrJUU-qAe9bDpz8OjV299JSsv_KdvMY2cY1t6nkcd9eNgIpBPQEJH8MBN_m9hyxBc6oSyIgwQXT7Zdwum5thWqVR-PeBj8HFJ6uY75HDn8yluBNA0QIthwSgMpnG1qVF84tAalI1ldA5YpwdTLoydf8L5nklZp6Ljh9NsSZIv5w&firstName=&lastName='
+  ]
+]
+[2023-04-15 00:17:26.875] [info]  [ 'Data from second instance', { data: '--no-sandbox' } ]
+[2023-04-15 00:17:26.876] [info]  [
+  'Opening deep link:',
+  'stashpad://auth?email=system@dominikhaid.de&accountId=7c44158a-f8e8-491c-8795-9f1680e4ce2f&sessionId=session-live-b717e604-d960-4f1b-84bc-04b8e5568d3c&sessionJwt=eyJhbGciOiJSUzI1NiIsImtpZCI6Imp3ay1saXZlLTg2NTgwZTM2LTRkMWItNGY4MS1hNWFhLWY5MDg0YTJhMTVkYyIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsicHJvamVjdC1saXZlLTRlNmZjMDE4LWExMDktNGQwZC04ZDFmLTMyNmZiYjVjMDI2YyJdLCJleHAiOjE2ODE1MTA5MzYsImh0dHBzOi8vc3R5dGNoLmNvbS9zZXNzaW9uIjp7ImlkIjoic2Vzc2lvbi1saXZlLWI3MTdlNjA0LWQ5NjAtNGYxYi04NGJjLTA0YjhlNTU2OGQzYyIsInN0YXJ0ZWRfYXQiOiIyMDIzLTA0LTE0VDIyOjE3OjE1WiIsImxhc3RfYWNjZXNzZWRfYXQiOiIyMDIzLTA0LTE0VDIyOjE3OjE1WiIsImV4cGlyZXNfYXQiOiIyMDIzLTA3LTEzVDIyOjE3OjE1WiIsImF0dHJpYnV0ZXMiOnsidXNlcl9hZ2VudCI6IiIsImlwX2FkZHJlc3MiOiIifSwiYXV0aGVudGljYXRpb25fZmFjdG9ycyI6W3sidHlwZSI6Im9hdXRoIiwiZGVsaXZlcnlfbWV0aG9kIjoib2F1dGhfZ2l0aHViIiwibGFzdF9hdXRoZW50aWNhdGVkX2F0IjoiMjAyMy0wNC0xNFQyMjoxNzoxNVoiLCJnaXRodWJfb2F1dGhfZmFjdG9yIjp7ImlkIjoib2F1dGgtdXNlci1saXZlLTQ1YWZhNGJhLTU1YzYtNGNjYS1iODcwLTE5ZjgwYjcwMGY5MSIsInByb3ZpZGVyX3N1YmplY3QiOiI0Njg4NjIyMCJ9fV19LCJpYXQiOjE2ODE1MTA2MzYsImlzcyI6InN0eXRjaC5jb20vcHJvamVjdC1saXZlLTRlNmZjMDE4LWExMDktNGQwZC04ZDFmLTMyNmZiYjVjMDI2YyIsIm5iZiI6MTY4MTUxMDYzNiwic3Rhc2hwYWRJZCI6IjdjNDQxNThhLWY4ZTgtNDkxYy04Nzk1LTlmMTY4MGU0Y2UyZiIsInN1YiI6InVzZXItbGl2ZS1hZjhiOGZjMS00MWM2LTQ0MmItOTMwZS1jMjNlYWU0ZWZhMjEifQ.h2EAJqG8MezZIaet6yq7FgFuLGtS-hLZjT5xwYF-Or8TLuR0kodRy4lxzcKfHt92OpOvuw_dz5sXX0Ma9620VDLaxsDjXZmFQf_6uHauTLPwNIPZ_sLnMN1qj9dDlGFTX3B6ZsmHxIAqrlNMAshVx-uDrQCDfFojtKeCc4UpbobjrJUU-qAe9bDpz8OjV299JSsv_KdvMY2cY1t6nkcd9eNgIpBPQEJH8MBN_m9hyxBc6oSyIgwQXT7Zdwum5thWqVR-PeBj8HFJ6uY75HDn8yluBNA0QIthwSgMpnG1qVF84tAalI1ldA5YpwdTLoydf8L5nklZp6Ljh9NsSZIv5w&firstName=&lastName='
+]
+[2023-04-15 00:17:31.478] [error] UnhandledRejection TypeError: Error processing argument at index 0, conversion failure from 
+    at /tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:234660
+    at d (/tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:219234)
+    at Generator.<anonymous> (/tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:220572)
+    at Generator.next (/tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:219597)
+    at Nc (/tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:225228)
+    at o (/tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:225432)
+    at /tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:225493
+    at new Promise (<anonymous>)
+    at IpcMainImpl.<anonymous> (/tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:225372)
+    at IpcMainImpl.<anonymous> (/tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:234755)
+[2023-04-15 00:17:31.479] [error] os: Linux 5.10.0-20-amd64, app: Stashpad 1.1.12, electron: Electron 20.0.1
+[2023-04-15 00:17:31.480] [error] [
+  'Unhandled Rejection:',
+  'UnhandledRejection TypeError: Error processing argument at index 0, conversion failure from \n' +
+    '    at /tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:234660\n' +
+    '    at d (/tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:219234)\n' +
+    '    at Generator.<anonymous> (/tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:220572)\n' +
+    '    at Generator.next (/tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:219597)\n' +
+    '    at Nc (/tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:225228)\n' +
+    '    at o (/tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:225432)\n' +
+    '    at /tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:225493\n' +
+    '    at new Promise (<anonymous>)\n' +
+    '    at IpcMainImpl.<anonymous> (/tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:225372)\n' +
+    '    at IpcMainImpl.<anonymous> (/tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:234755)'
+]
+[2023-04-15 00:17:31.927] [error] UnhandledRejection TypeError: Error processing argument at index 0, conversion failure from 
+    at /tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:234660
+    at d (/tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:219234)
+    at Generator.<anonymous> (/tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:220572)
+    at Generator.next (/tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:219597)
+    at Nc (/tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:225228)
+    at o (/tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:225432)
+    at /tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:225493
+    at new Promise (<anonymous>)
+    at IpcMainImpl.<anonymous> (/tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:225372)
+    at IpcMainImpl.<anonymous> (/tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:234755)
+[2023-04-15 00:17:31.928] [error] os: Linux 5.10.0-20-amd64, app: Stashpad 1.1.12, electron: Electron 20.0.1
+[2023-04-15 00:17:31.929] [error] [
+  'Unhandled Rejection:',
+  'UnhandledRejection TypeError: Error processing argument at index 0, conversion failure from \n' +
+    '    at /tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:234660\n' +
+    '    at d (/tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:219234)\n' +
+    '    at Generator.<anonymous> (/tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:220572)\n' +
+    '    at Generator.next (/tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:219597)\n' +
+    '    at Nc (/tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:225228)\n' +
+    '    at o (/tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:225432)\n' +
+    '    at /tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:225493\n' +
+    '    at new Promise (<anonymous>)\n' +
+    '    at IpcMainImpl.<anonymous> (/tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:225372)\n' +
+    '    at IpcMainImpl.<anonymous> (/tmp/.mount_StashpRTFNy3/resources/app.asar/dist/main/main.js:2:234755)'
+]
+[2023-04-15 00:17:54.434] [info]  [
+  'Analytics log written to file',
+  '/home/dominik/.config/Stashpad/analytics.json'
+]

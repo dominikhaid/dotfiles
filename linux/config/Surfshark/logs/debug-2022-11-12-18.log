@@ -1,0 +1,30 @@
+2022-11-12T17:00:00.099Z [ELECTRON:ipc-client] debug: Call ipc method getState 
+2022-11-12T17:14:19.671Z [ELECTRON:ipc-client] debug: Call ipc method abort 
+2022-11-12T17:14:19.671Z [ELECTRON:action-manager] info: Aborting generator's rotation... 
+2022-11-12T17:14:19.672Z [ELECTRON:action-manager] info: Absorbed error:  random 
+Error: random
+    at hK.ld (/opt/Surfshark/resources/app.asar/main.js:1:993204)
+    at Object.onceWrapper (node:events:641:28)
+    at hK.emit (node:events:527:28)
+    at hK.emit (node:domain:475:12)
+    at hK.abort (/opt/Surfshark/resources/app.asar/main.js:1:992585)
+    at k6.disconnect (/opt/Surfshark/resources/app.asar/main.js:1:1095968)
+    at async kV._handleClosing (/opt/Surfshark/resources/app.asar/main.js:1:1114575)
+    at async kV._handleAppStateChange (/opt/Surfshark/resources/app.asar/main.js:1:1113792)
+    at async Promise.all (index 0)
+    at async kK.emit (/opt/Surfshark/resources/app.asar/main.js:7:361290)
+2022-11-12T17:14:19.676Z [ELECTRON:ipc-client] debug: Call ipc method abort 
+2022-11-12T17:14:19.676Z [ELECTRON:action-manager] info: Aborting generator's rotation... 
+2022-11-12T17:14:19.676Z [ELECTRON:action-manager] info: Absorbed error:  random 
+Error: random
+    at hK.ld (/opt/Surfshark/resources/app.asar/main.js:1:993204)
+    at Object.onceWrapper (node:events:641:28)
+    at hK.emit (node:events:527:28)
+    at hK.emit (node:domain:475:12)
+    at hK.abort (/opt/Surfshark/resources/app.asar/main.js:1:992585)
+    at kD.disconnect (/opt/Surfshark/resources/app.asar/main.js:1:1086108)
+    at async Promise.all (index 1)
+    at async k6.disconnect (/opt/Surfshark/resources/app.asar/main.js:1:1095975)
+    at async kV._handleClosing (/opt/Surfshark/resources/app.asar/main.js:1:1114575)
+    at async kV._handleAppStateChange (/opt/Surfshark/resources/app.asar/main.js:1:1113792)
+2022-11-12T17:14:19.677Z [ELECTRON:ipc-client] debug: Call ipc method disconnect 

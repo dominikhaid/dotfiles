@@ -1,0 +1,223 @@
+2022-11-12T16:45:01.335Z [ELECTRON:ipc-client] debug: Call ipc method getState 
+2022-11-12T16:45:01.494Z [ELECTRON:ipc-client] debug: Call ipc method getState 
+2022-11-12T16:45:01.500Z [ELECTRON:ipc-client] debug: Call ipc method getState 
+2022-11-12T16:45:01.973Z [ELECTRON:user-action] info: onSubscribed|"sharkState" 
+2022-11-12T16:45:01.974Z [ELECTRON:user-action] info: onSubscribed:success 
+2022-11-12T16:45:02.147Z [ELECTRON:user-action] info: sge 
+2022-11-12T16:45:02.149Z [ELECTRON:user-action] info: sge:success 
+2022-11-12T16:45:02.229Z [ELECTRON:user-action] info: sge 
+2022-11-12T16:45:02.230Z [ELECTRON:user-action] info: sge:success 
+2022-11-12T16:45:02.231Z [ELECTRON:user-action] info: refetchLocations|{"throws":true} 
+2022-11-12T16:45:02.244Z [ELECTRON:user-action] info: getUserData 
+2022-11-12T16:45:02.330Z [ELECTRON:fetch] info: GET https://api.surfshark.com/v4/server/clusters/all	200 
+2022-11-12T16:45:02.356Z [ELECTRON:user-action] info: refetchLocations:success 
+2022-11-12T16:45:02.361Z [ELECTRON:fetch] info: GET https://api.surfshark.com/v1/account/users/me	401 
+2022-11-12T16:45:02.573Z [ELECTRON:fetch] info: GET https://api.surfshark.com/v1/server/user	200 
+2022-11-12T16:45:02.574Z [ELECTRON:fetch] info: POST https://api.surfshark.com/v1/auth/renew	200 
+2022-11-12T16:45:02.583Z [ELECTRON:user-action] info: getUserData:success 
+2022-11-12T16:45:02.959Z [ELECTRON:fetch] info: GET https://api.surfshark.com/latest/server/user	200 
+2022-11-12T16:45:05.912Z [ELECTRON:user-action] info: connect|{"location":{"id":"3bb90d5c-5190-41a2-8aa0-2c9975df9a39","country":"Austria","countryCode":"AT","region":"Europe","regionCode":"EU","load":29,"type":"generic","location":"Vienna","connectionName":"at-vie.prod.surfshark.com","tags":["p2p"],"transitCluster":null,"flagUrl":"https://cdn.ss-cdn.com/assets/flags/AT.png","pubKey":"dPZe8Jq3Hu0k07MDk+Y4+AS2XHSLYalyg91TSFXRYEA="},"intent":"location_list"} 
+2022-11-12T16:45:06.150Z [ELECTRON:fetch] info: POST https://api.surfshark.com/v1/account/users/public-keys/validate	404 
+2022-11-12T16:45:06.151Z [ELECTRON:ipc-client] debug: Call ipc method generatePair 
+2022-11-12T16:45:06.374Z [ELECTRON:fetch] info: POST https://api.surfshark.com/v1/account/users/public-keys	201 
+2022-11-12T16:45:06.460Z [ELECTRON:ipc-client] debug: Call ipc method addIPV6Connection 
+2022-11-12T16:45:06.529Z [ELECTRON:ipc-client] debug: Call ipc method add 
+2022-11-12T16:45:07.547Z [ELECTRON:ipc-client] debug: Call ipc method connect 
+2022-11-12T16:45:08.711Z [ELECTRON:user-action] info: connect:success 
+2022-11-12T16:45:08.830Z [ELECTRON:user-action] info: getUserData 
+2022-11-12T16:45:09.343Z [ELECTRON:fetch] info: GET https://api.surfshark.com/v1/server/user	200 
+2022-11-12T16:45:09.361Z [ELECTRON:user-action] info: getUserData:success 
+2022-11-12T16:45:10.585Z [ELECTRON:ipc-client] debug: Call ipc method getState 
+2022-11-12T16:53:28.093Z [ELECTRON:user-action] info: disconnect|{"intent":"disconnect_button"} 
+2022-11-12T16:53:28.105Z [ELECTRON:ipc-client] debug: Call ipc method abort 
+2022-11-12T16:53:28.106Z [ELECTRON:action-manager] info: Aborting generator's rotation... 
+2022-11-12T16:53:28.107Z [ELECTRON:action-manager] info: Absorbed error:  random 
+Error: random
+    at hK.ld (/opt/Surfshark/resources/app.asar/main.js:1:993204)
+    at Object.onceWrapper (node:events:641:28)
+    at hK.emit (node:events:527:28)
+    at hK.emit (node:domain:475:12)
+    at hK.abort (/opt/Surfshark/resources/app.asar/main.js:1:992585)
+    at k6.disconnect (/opt/Surfshark/resources/app.asar/main.js:1:1095968)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async kV.disconnect (/opt/Surfshark/resources/app.asar/main.js:1:1119679)
+    at async /opt/Surfshark/resources/app.asar/main.js:1:1118539
+    at async node:electron/js2c/browser_init:189:563
+2022-11-12T16:53:28.135Z [ELECTRON:ipc-client] debug: Call ipc method abort 
+2022-11-12T16:53:28.137Z [ELECTRON:action-manager] info: Aborting generator's rotation... 
+2022-11-12T16:53:28.138Z [ELECTRON:action-manager] info: Absorbed error:  Ping check failed! 
+Error: Ping check failed!
+    at ku (/opt/Surfshark/resources/app.asar/main.js:1:1066068)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async l4 (/opt/Surfshark/resources/app.asar/main.js:1:993362)
+    at async l4 (/opt/Surfshark/resources/app.asar/main.js:1:994022)
+    at async l4 (/opt/Surfshark/resources/app.asar/main.js:1:994022)
+    at async l4 (/opt/Surfshark/resources/app.asar/main.js:1:994022)
+    at async l4 (/opt/Surfshark/resources/app.asar/main.js:1:994022)
+    at async l4 (/opt/Surfshark/resources/app.asar/main.js:1:994022)
+    at async l4 (/opt/Surfshark/resources/app.asar/main.js:1:994022)
+    at async l4 (/opt/Surfshark/resources/app.asar/main.js:1:994022)
+2022-11-12T16:53:28.139Z [ELECTRON:ipc-client] debug: Call ipc method disconnect 
+2022-11-12T16:53:28.140Z [ELECTRON:ipc-client] debug: Call ipc method disconnect 
+2022-11-12T16:53:28.202Z [ELECTRON:ipc-client] debug: Call ipc method remove 
+2022-11-12T16:53:28.203Z [ELECTRON:ipc-client] debug: Call ipc method getState 
+2022-11-12T16:53:28.215Z [ELECTRON:ipc-client] debug: Call ipc method removeIPV6Connection 
+2022-11-12T16:53:28.753Z [ELECTRON:ipc-client] debug: Call ipc method remove 
+2022-11-12T16:53:29.273Z [ELECTRON:ipc-client] debug: Call ipc method removeIPV6Connection 
+2022-11-12T16:53:30.157Z [ELECTRON:fetch] info: GET https://api.surfshark.com/latest/server/user	200 
+2022-11-12T16:53:30.194Z [ELECTRON:user-action] info: disconnect:success 
+2022-11-12T16:53:30.222Z [ELECTRON:user-action] info: getUserData 
+2022-11-12T16:53:30.442Z [ELECTRON:fetch] info: GET https://api.surfshark.com/v1/server/user	200 
+2022-11-12T16:53:30.456Z [ELECTRON:user-action] info: getUserData:success 
+2022-11-12T16:53:31.222Z [ELECTRON:ipc-client] debug: Call ipc method getState 
+2022-11-12T16:53:33.279Z [ELECTRON:user-action] info: connect|{"location":{"id":"3bb90d5c-5190-41a2-8aa0-2c9975df9a39","country":"Austria","countryCode":"AT","region":"Europe","regionCode":"EU","load":29,"type":"generic","location":"Vienna","connectionName":"at-vie.prod.surfshark.com","tags":["p2p"],"transitCluster":null,"flagUrl":"https://cdn.ss-cdn.com/assets/flags/AT.png","pubKey":"dPZe8Jq3Hu0k07MDk+Y4+AS2XHSLYalyg91TSFXRYEA="},"intent":"location_list"} 
+2022-11-12T16:53:33.462Z [ELECTRON:fetch] info: POST https://api.surfshark.com/v1/account/users/public-keys/validate	200 
+2022-11-12T16:53:33.537Z [ELECTRON:ipc-client] debug: Call ipc method addIPV6Connection 
+2022-11-12T16:53:40.875Z [ELECTRON:ipc-client] debug: Call ipc method add 
+2022-11-12T16:53:41.890Z [ELECTRON:ipc-client] debug: Call ipc method connect 
+2022-11-12T16:53:43.020Z [ELECTRON:user-action] info: connect:success 
+2022-11-12T16:53:43.288Z [ELECTRON:user-action] info: getUserData 
+2022-11-12T16:53:43.580Z [ELECTRON:fetch] info: GET https://api.surfshark.com/v1/server/user	200 
+2022-11-12T16:53:43.597Z [ELECTRON:user-action] info: getUserData:success 
+2022-11-12T16:53:44.917Z [ELECTRON:ipc-client] debug: Call ipc method getState 
+2022-11-12T16:56:20.653Z [ELECTRON:user-action] info: showDialog|{"type":"DIALOG_UPDATE_AVAILABLE","data":"1.2.3-1239"} 
+2022-11-12T16:56:20.655Z [ELECTRON:user-action] info: showDialog:success 
+2022-11-12T16:56:22.275Z [ELECTRON:user-action] info: closeDialog|undefined 
+2022-11-12T16:56:22.278Z [ELECTRON:user-action] info: closeDialog:success 
+2022-11-12T16:56:22.278Z [ELECTRON:user-action] info: update|{"throws":true} 
+2022-11-12T16:56:22.535Z [ELECTRON:user-action] info: update:success 
+2022-11-12T16:56:31.534Z [ELECTRON:user-action] info: showDialog|{"type":"DIALOG_UPDATE_AVAILABLE","data":"1.2.3-1239"} 
+2022-11-12T16:56:31.537Z [ELECTRON:user-action] info: showDialog:success 
+2022-11-12T16:56:33.230Z [ELECTRON:user-action] info: closeDialog|undefined 
+2022-11-12T16:56:33.234Z [ELECTRON:user-action] info: closeDialog:success 
+2022-11-12T16:56:33.234Z [ELECTRON:user-action] info: update|{"throws":true} 
+2022-11-12T16:56:33.478Z [ELECTRON:user-action] info: update:success 
+2022-11-12T16:57:52.907Z [ELECTRON:user-action] info: onSubscribed|"sharkState" 
+2022-11-12T16:57:52.909Z [ELECTRON:user-action] info: onSubscribed:success 
+2022-11-12T16:57:53.097Z [ELECTRON:user-action] info: sge 
+2022-11-12T16:57:53.099Z [ELECTRON:user-action] info: sge:success 
+2022-11-12T16:57:53.191Z [ELECTRON:user-action] info: sge 
+2022-11-12T16:57:53.192Z [ELECTRON:user-action] info: sge:success 
+2022-11-12T16:57:53.193Z [ELECTRON:user-action] info: refetchLocations|{"throws":true} 
+2022-11-12T16:57:53.210Z [ELECTRON:user-action] info: getUserData 
+2022-11-12T16:57:55.616Z [ELECTRON:user-action] info: disconnect|{"intent":"disconnect_button"} 
+2022-11-12T16:57:55.624Z [ELECTRON:ipc-client] debug: Call ipc method abort 
+2022-11-12T16:57:55.625Z [ELECTRON:action-manager] info: Aborting generator's rotation... 
+2022-11-12T16:57:55.625Z [ELECTRON:action-manager] info: Absorbed error:  random 
+Error: random
+    at hK.ld (/opt/Surfshark/resources/app.asar/main.js:1:993204)
+    at Object.onceWrapper (node:events:641:28)
+    at hK.emit (node:events:527:28)
+    at hK.emit (node:domain:475:12)
+    at hK.abort (/opt/Surfshark/resources/app.asar/main.js:1:992585)
+    at k6.disconnect (/opt/Surfshark/resources/app.asar/main.js:1:1095968)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async kV.disconnect (/opt/Surfshark/resources/app.asar/main.js:1:1119679)
+    at async /opt/Surfshark/resources/app.asar/main.js:1:1118539
+    at async node:electron/js2c/browser_init:189:563
+2022-11-12T16:57:55.636Z [ELECTRON:ipc-client] debug: Call ipc method abort 
+2022-11-12T16:57:55.637Z [ELECTRON:action-manager] info: Aborting generator's rotation... 
+2022-11-12T16:57:55.637Z [ELECTRON:action-manager] info: Absorbed error:  Ping check failed! 
+Error: Ping check failed!
+    at ku (/opt/Surfshark/resources/app.asar/main.js:1:1066068)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async l4 (/opt/Surfshark/resources/app.asar/main.js:1:993362)
+    at async l4 (/opt/Surfshark/resources/app.asar/main.js:1:994022)
+    at async l4 (/opt/Surfshark/resources/app.asar/main.js:1:994022)
+    at async l4 (/opt/Surfshark/resources/app.asar/main.js:1:994022)
+    at async l4 (/opt/Surfshark/resources/app.asar/main.js:1:994022)
+    at async l4 (/opt/Surfshark/resources/app.asar/main.js:1:994022)
+    at async l4 (/opt/Surfshark/resources/app.asar/main.js:1:994022)
+    at async l4 (/opt/Surfshark/resources/app.asar/main.js:1:994022)
+2022-11-12T16:57:55.637Z [ELECTRON:ipc-client] debug: Call ipc method disconnect 
+2022-11-12T16:57:55.637Z [ELECTRON:ipc-client] debug: Call ipc method disconnect 
+2022-11-12T16:57:55.660Z [ELECTRON:ipc-client] debug: Call ipc method remove 
+2022-11-12T16:57:55.661Z [ELECTRON:ipc-client] debug: Call ipc method getState 
+2022-11-12T16:57:55.666Z [ELECTRON:ipc-client] debug: Call ipc method removeIPV6Connection 
+2022-11-12T16:57:56.194Z [ELECTRON:fetch] info: GET /v4/server/clusters/all	 timed out 
+2022-11-12T16:57:56.211Z [ELECTRON:user-action] info: refetchLocations:success 
+2022-11-12T16:57:56.212Z [ELECTRON:fetch] info: GET /v1/server/user	 timed out 
+2022-11-12T16:57:56.212Z [ELECTRON:user-action] info: getUserData:error Failed to reach server user api! Request timed out.	network 
+2022-11-12T16:57:56.213Z [ELECTRON:user-action] error: Failed to reach server user api! Request timed out. 
+gj: Failed to reach server user api! Request timed out.
+    at gV (/opt/Surfshark/resources/app.asar/main.js:1:962224)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async hj.getUserData (/opt/Surfshark/resources/app.asar/main.js:1:978434)
+    at async kV.getUserData (/opt/Surfshark/resources/app.asar/main.js:1:1122491)
+    at async /opt/Surfshark/resources/app.asar/main.js:1:1118539
+    at async node:electron/js2c/browser_init:189:563
+2022-11-12T16:57:56.222Z [ELECTRON:ipc-client] debug: Call ipc method remove 
+2022-11-12T16:57:56.756Z [ELECTRON:ipc-client] debug: Call ipc method removeIPV6Connection 
+2022-11-12T16:57:56.914Z [ELECTRON:user-action] info: getUserData 
+2022-11-12T16:57:58.231Z [ELECTRON:fetch] info: GET https://api.surfshark.com/latest/server/user	200 
+2022-11-12T16:57:58.263Z [ELECTRON:user-action] info: disconnect:success 
+2022-11-12T16:57:58.330Z [ELECTRON:fetch] info: GET https://api.surfshark.com/v1/server/user	200 
+2022-11-12T16:57:58.340Z [ELECTRON:user-action] info: getUserData:success 
+2022-11-12T16:57:58.667Z [ELECTRON:ipc-client] debug: Call ipc method getState 
+2022-11-12T16:59:28.656Z [ELECTRON:user-action] info: onSubscribed|"sharkState" 
+2022-11-12T16:59:28.658Z [ELECTRON:user-action] info: onSubscribed:success 
+2022-11-12T16:59:28.854Z [ELECTRON:user-action] info: sge 
+2022-11-12T16:59:28.856Z [ELECTRON:user-action] info: sge:success 
+2022-11-12T16:59:28.952Z [ELECTRON:user-action] info: sge 
+2022-11-12T16:59:28.953Z [ELECTRON:user-action] info: sge:success 
+2022-11-12T16:59:28.953Z [ELECTRON:user-action] info: refetchLocations|{"throws":true} 
+2022-11-12T16:59:28.967Z [ELECTRON:user-action] info: getUserData 
+2022-11-12T16:59:29.025Z [ELECTRON:fetch] info: GET https://api.surfshark.com/v4/server/clusters/all	200 
+2022-11-12T16:59:29.054Z [ELECTRON:user-action] info: refetchLocations:success 
+2022-11-12T16:59:29.166Z [ELECTRON:fetch] info: GET https://api.surfshark.com/v1/server/user	200 
+2022-11-12T16:59:29.175Z [ELECTRON:user-action] info: getUserData:success 
+2022-11-12T16:59:31.046Z [ELECTRON:user-action] info: connect|{"location":"fastest","intent":"quick_connect"} 
+2022-11-12T16:59:31.549Z [ELECTRON:fetch] info: POST https://api.surfshark.com/v1/account/users/public-keys/validate	200 
+2022-11-12T16:59:31.605Z [ELECTRON:ipc-client] debug: Call ipc method addIPV6Connection 
+2022-11-12T16:59:34.894Z [ELECTRON:ipc-client] debug: Call ipc method add 
+2022-11-12T16:59:35.911Z [ELECTRON:ipc-client] debug: Call ipc method connect 
+2022-11-12T16:59:37.051Z [ELECTRON:user-action] info: connect:success 
+2022-11-12T16:59:37.204Z [ELECTRON:user-action] info: getUserData 
+2022-11-12T16:59:37.350Z [ELECTRON:fetch] info: GET https://api.surfshark.com/v1/server/user	200 
+2022-11-12T16:59:37.369Z [ELECTRON:user-action] info: getUserData:success 
+2022-11-12T16:59:38.931Z [ELECTRON:ipc-client] debug: Call ipc method getState 
+2022-11-12T16:59:50.911Z [ELECTRON:user-action] info: connect|{"location":{"id":"3bb90d5c-5190-41a2-8aa0-2c9975df9a39","country":"Austria","countryCode":"AT","region":"Europe","regionCode":"EU","load":29,"type":"generic","location":"Vienna","connectionName":"at-vie.prod.surfshark.com","tags":["p2p"],"transitCluster":null,"flagUrl":"https://cdn.ss-cdn.com/assets/flags/AT.png","pubKey":"dPZe8Jq3Hu0k07MDk+Y4+AS2XHSLYalyg91TSFXRYEA="},"intent":"location_list"} 
+2022-11-12T16:59:50.923Z [ELECTRON:ipc-client] debug: Call ipc method abort 
+2022-11-12T16:59:50.924Z [ELECTRON:action-manager] info: Aborting generator's rotation... 
+2022-11-12T16:59:50.924Z [ELECTRON:action-manager] info: Absorbed error:  random 
+Error: random
+    at hK.ld (/opt/Surfshark/resources/app.asar/main.js:1:993204)
+    at Object.onceWrapper (node:events:641:28)
+    at hK.emit (node:events:527:28)
+    at hK.emit (node:domain:475:12)
+    at hK.abort (/opt/Surfshark/resources/app.asar/main.js:1:992585)
+    at k6.disconnect (/opt/Surfshark/resources/app.asar/main.js:1:1095968)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async l4 (/opt/Surfshark/resources/app.asar/main.js:1:993362)
+    at async l4 (/opt/Surfshark/resources/app.asar/main.js:1:994022)
+    at async l4 (/opt/Surfshark/resources/app.asar/main.js:1:994022)
+2022-11-12T16:59:50.938Z [ELECTRON:ipc-client] debug: Call ipc method abort 
+2022-11-12T16:59:50.939Z [ELECTRON:action-manager] info: Aborting generator's rotation... 
+2022-11-12T16:59:50.939Z [ELECTRON:action-manager] info: Absorbed error:  random 
+Error: random
+    at hK.ld (/opt/Surfshark/resources/app.asar/main.js:1:993204)
+    at Object.onceWrapper (node:events:641:28)
+    at hK.emit (node:events:527:28)
+    at hK.emit (node:domain:475:12)
+    at hK.abort (/opt/Surfshark/resources/app.asar/main.js:1:992585)
+    at kD.disconnect (/opt/Surfshark/resources/app.asar/main.js:1:1086108)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Promise.all (index 1)
+    at async k6.disconnect (/opt/Surfshark/resources/app.asar/main.js:1:1095975)
+    at async l4 (/opt/Surfshark/resources/app.asar/main.js:1:993362)
+2022-11-12T16:59:50.939Z [ELECTRON:ipc-client] debug: Call ipc method disconnect 
+2022-11-12T16:59:50.939Z [ELECTRON:ipc-client] debug: Call ipc method disconnect 
+2022-11-12T16:59:50.958Z [ELECTRON:ipc-client] debug: Call ipc method getState 
+2022-11-12T16:59:50.960Z [ELECTRON:ipc-client] debug: Call ipc method remove 
+2022-11-12T16:59:50.964Z [ELECTRON:ipc-client] debug: Call ipc method removeIPV6Connection 
+2022-11-12T16:59:51.528Z [ELECTRON:ipc-client] debug: Call ipc method remove 
+2022-11-12T16:59:52.039Z [ELECTRON:ipc-client] debug: Call ipc method removeIPV6Connection 
+2022-11-12T16:59:52.750Z [ELECTRON:fetch] info: POST https://api.surfshark.com/v1/account/users/public-keys/validate	200 
+2022-11-12T16:59:52.767Z [ELECTRON:ipc-client] debug: Call ipc method addIPV6Connection 
+2022-11-12T16:59:53.963Z [ELECTRON:ipc-client] debug: Call ipc method getState 
+2022-11-12T16:59:56.066Z [ELECTRON:ipc-client] debug: Call ipc method add 
+2022-11-12T16:59:57.079Z [ELECTRON:ipc-client] debug: Call ipc method connect 
+2022-11-12T16:59:58.216Z [ELECTRON:user-action] info: connect:success 
+2022-11-12T16:59:58.341Z [ELECTRON:user-action] info: getUserData 
+2022-11-12T16:59:58.715Z [ELECTRON:fetch] info: GET https://api.surfshark.com/v1/server/user	200 
+2022-11-12T16:59:58.733Z [ELECTRON:user-action] info: getUserData:success 

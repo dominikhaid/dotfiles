@@ -1,0 +1,1 @@
+(()=>{const e=document.createElement("script");e.src=chrome.runtime.getURL("script.js"),e.onload=function(){this.remove()},(document.head||document.documentElement).prepend(e)})();

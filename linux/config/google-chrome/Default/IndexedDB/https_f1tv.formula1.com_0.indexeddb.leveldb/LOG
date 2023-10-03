@@ -1,0 +1,7 @@
+2022/03/25-22:32:02.761 ca4b Reusing MANIFEST /home/dominik/.config/google-chrome/Default/IndexedDB/https_f1tv.formula1.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/03/25-22:32:02.761 ca4b Recovering log #4
+2022/03/25-22:32:02.761 ca4b Reusing old log /home/dominik/.config/google-chrome/Default/IndexedDB/https_f1tv.formula1.com_0.indexeddb.leveldb/000004.log 
+2022/03/25-22:32:02.828 ca52 Level-0 table #8: started
+2022/03/25-22:32:02.834 ca52 Level-0 table #8: 2114 bytes OK
+2022/03/25-22:32:02.841 ca52 Delete type=0 #4
+2022/03/25-22:32:02.841 ca52 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)

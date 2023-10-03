@@ -1,0 +1,7 @@
+{
+   "description": "Brave Ads Resources Component",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqyx9DxzGb/rzZQ6B4LWax/AkJ9Q7LUeHqEg1TqaoFZqbjw7YqEtRc2yfX7siPi1V/ZeD3kIglf+ylrXmd1EPlZSqdhjbBwl6BQqQTChawDQtOtOVtr6GciEsicGGBQNTTBAUi6cqwsryL1JDdVnN0QOh9q8MNZ2rDbMuOc1E7Hm3h3DWY/vWAnhYwoFkxszohc3rknZjJglxikwh/e2CbsoEE2kBXuTrj5Y0PMySHl9eom7EMHyZTzl6m5ucjqNW+4Wq4uwfqJYKaxVpiPbuhQaAx2gcFdU62a63+i4PFR9vknoP5vXvQVHgc/AXrprbjwQfewl61RAE10fmaYxvzwIDAQAB",
+   "manifest_version": 2,
+   "name": "Brave Ads Resources",
+   "version": "1.0.41"
+}
